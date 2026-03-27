@@ -1,0 +1,6353 @@
+[
+  {
+    "constituencyId": "1",
+    "name": "MANJESHWAR",
+    "district": "Kasaragod",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. R. Jayanandan",
+        "party": "CPI(M)",
+        "partyLogo": "Const1_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "A. K. M. Ashraf",
+        "party": "IUML",
+        "partyLogo": "Const1_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. Surendran",
+        "party": "BJP",
+        "partyLogo": "Const1_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "A K M ASHRAF",
+      "winnerTotalVotes": 65758,
+      "runnerUpName": "K SURENDRAN",
+      "runnerUpTotalVotes": 65013,
+      "margin": 745,
+      "electors": 221711,
+      "turnout": 77.93,
+      "nota": 387
+    },
+    "imageFiles": [
+      "Const1_001.jpg",
+      "Const1_iuml.svg",
+      "Const1_bjp.svg",
+      "Const1_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "2",
+    "name": "KASARAGOD",
+    "district": "Kasaragod",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Shanavas Padhoor",
+        "party": "Independent (INL Support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Kallatra Mahin Haji",
+        "party": "IUML",
+        "partyLogo": "Const2_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Ashwini M.L.",
+        "party": "BJP",
+        "partyLogo": "Const2_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "C.A. Savad",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "N A NELLIKKUNNU",
+      "winnerTotalVotes": 63296,
+      "runnerUpName": "ADV K SHREEKANTH",
+      "runnerUpTotalVotes": 50395,
+      "margin": 12901,
+      "electors": 201863,
+      "turnout": 72.05,
+      "nota": 639
+    },
+    "imageFiles": [
+      "Const2_002.jpg",
+      "Const2_bjp.svg",
+      "Const2_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "3",
+    "name": "UDMA",
+    "district": "Kasaragod",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "C. H. Kunhambu",
+        "party": "CPI(M)",
+        "partyLogo": "Const3_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Neelakantan",
+        "party": "INC",
+        "partyLogo": "Const3_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Manulal Meloth",
+        "party": "BJP",
+        "partyLogo": "Const3_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "C H KUNHAMBU",
+      "winnerTotalVotes": 78664,
+      "runnerUpName": "BALAKRISHNAN PERIYE",
+      "runnerUpTotalVotes": 65342,
+      "margin": 13322,
+      "electors": 214368,
+      "turnout": 77.37,
+      "nota": 434
+    },
+    "imageFiles": [
+      "Const3_inc.svg",
+      "Const3_cpim.png",
+      "Const3_bjp.svg",
+      "Const3_003.jpg"
+    ]
+  },
+  {
+    "constituencyId": "4",
+    "name": "KANHANGAD",
+    "district": "Kasaragod",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Govindan Pallikkappil",
+        "party": "CPI",
+        "partyLogo": "Const4_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Shyji Ottapalli",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "M. Balraj",
+        "party": "BJP",
+        "partyLogo": "Const4_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "E CHANDRASHEKARAN",
+      "winnerTotalVotes": 84615,
+      "runnerUpName": "P V SURESH",
+      "runnerUpTotalVotes": 57476,
+      "margin": 27139,
+      "electors": 218836,
+      "turnout": 76.44,
+      "nota": 637
+    },
+    "imageFiles": [
+      "Const4_004.jpg",
+      "Const4_cpi.svg",
+      "Const4_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "5",
+    "name": "TRIKARIPUR",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. P. P. Mustafa",
+        "party": "CPI(M)",
+        "partyLogo": "Const5_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sandeep Varier",
+        "party": "INC",
+        "partyLogo": "Const5_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Ravi Kulangara",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M RAJAGOPALAN",
+      "winnerTotalVotes": 86151,
+      "runnerUpName": "M P JOSEPH",
+      "runnerUpTotalVotes": 60014,
+      "margin": 26137,
+      "electors": 203189,
+      "turnout": 79.04,
+      "nota": 558
+    },
+    "imageFiles": [
+      "Const5_cpim.png",
+      "Const5_inc.svg",
+      "Const5_005.jpg"
+    ]
+  },
+  {
+    "constituencyId": "6",
+    "name": "PAYYANNUR",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "T. I. Madhusoodanan",
+        "party": "CPI(M)",
+        "partyLogo": "Const6_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. Kunjikrishnan",
+        "party": "Independent (RSP support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "A. P. Gangadharan",
+        "party": "BJP",
+        "partyLogo": "Const6_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "T I MADHUSOODANAN",
+      "winnerTotalVotes": 93695,
+      "runnerUpName": "M PRADEEP KUMAR",
+      "runnerUpTotalVotes": 43915,
+      "margin": 49780,
+      "electors": 184264,
+      "turnout": 81.87,
+      "nota": 686
+    },
+    "imageFiles": [
+      "Const6_bjp.svg",
+      "Const6_006.jpg",
+      "Const6_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "7",
+    "name": "KALLIASSERI",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. Vijin",
+        "party": "CPI(M)",
+        "partyLogo": "Const7_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Rajeevan Kappacheri",
+        "party": "INC",
+        "partyLogo": "Const7_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "A.V. Sanil Kumar",
+        "party": "BJP",
+        "partyLogo": "Const7_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "K.K. Abdul Jabbar",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M VIJIN",
+      "winnerTotalVotes": 88252,
+      "runnerUpName": "ADV. BRIJESH KUMAR",
+      "runnerUpTotalVotes": 43859,
+      "margin": 44393,
+      "electors": 185592,
+      "turnout": 78.86,
+      "nota": 666
+    },
+    "imageFiles": [
+      "Const7_inc.svg",
+      "Const7_cpim.png",
+      "Const7_007.jpg",
+      "Const7_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "8",
+    "name": "TALIPARAMBA",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. K. Shyamala",
+        "party": "CPI(M)",
+        "partyLogo": "Const8_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. K. Govindan",
+        "party": "Independent (INC Support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "N. Haridas",
+        "party": "BJP",
+        "partyLogo": "Const8_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Anappally Gopalan",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M V GOVINDAN MASTER",
+      "winnerTotalVotes": 92870,
+      "runnerUpName": "ADV. V P ABDUL RASHEED",
+      "runnerUpTotalVotes": 70181,
+      "margin": 22689,
+      "electors": 214068,
+      "turnout": 83.44,
+      "nota": 789
+    },
+    "imageFiles": [
+      "Const8_bjp.svg",
+      "Const8_cpim.png",
+      "Const8_008.jpg"
+    ]
+  },
+  {
+    "constituencyId": "9",
+    "name": "IRIKKUR",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Mathew Kunnappally",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sajeev Joseph",
+        "party": "INC",
+        "partyLogo": "Const9_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Sreenath Padmanabhan",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Joseph P.V",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "M. J. Mathew",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv. Sajeev Joseph",
+      "winnerTotalVotes": 76764,
+      "runnerUpName": "SAJI KUTTIYANIMATTAM",
+      "runnerUpTotalVotes": 66754,
+      "margin": 10010,
+      "electors": 195695,
+      "turnout": 78.2,
+      "nota": 459
+    },
+    "imageFiles": [
+      "Const9_kcm.svg",
+      "Const9_009.jpg",
+      "Const9_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "10",
+    "name": "AZHIKODE",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. V. Sumesh",
+        "party": "CPI(M)",
+        "partyLogo": "Const10_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Kareem Cheleri",
+        "party": "IUML",
+        "partyLogo": "Const10_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. K. Vinod Kumar",
+        "party": "BJP",
+        "partyLogo": "Const10_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K V Sumesh",
+      "winnerTotalVotes": 65794,
+      "runnerUpName": "K M Shaji",
+      "runnerUpTotalVotes": 59653,
+      "margin": 6141,
+      "electors": 181838,
+      "turnout": 79.85,
+      "nota": 517
+    },
+    "imageFiles": [
+      "Const10_010.jpg",
+      "Const10_bjp.svg",
+      "Const10_iuml.svg",
+      "Const10_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "11",
+    "name": "KANNUR",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Kadannappalli Ramachandran",
+        "party": "Congress (Secular)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Adv. T. O. Mohanan",
+        "party": "INC",
+        "partyLogo": "Const11_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "C. Raghunath",
+        "party": "BJP",
+        "partyLogo": "Const11_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "RAMACHANDRAN KADANNAPPALLI",
+      "winnerTotalVotes": 60313,
+      "runnerUpName": "SATHEESHAN PACHENI",
+      "runnerUpTotalVotes": 58568,
+      "margin": 1745,
+      "electors": 174370,
+      "turnout": 77.29,
+      "nota": 504
+    },
+    "imageFiles": [
+      "Const11_inc.svg",
+      "Const11_011.jpg",
+      "Const11_cs.svg",
+      "Const11_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "12",
+    "name": "DHARMADAM",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Pinarayi Vijayan",
+        "party": "CPI(M)",
+        "partyLogo": "Const12_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Abdul Rasheed",
+        "party": "INC",
+        "partyLogo": "Const12_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. Ranjith",
+        "party": "BJP",
+        "partyLogo": "Const12_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Pinarayi Vijayan",
+      "winnerTotalVotes": 95522,
+      "runnerUpName": "C. Raghunathan",
+      "runnerUpTotalVotes": 45399,
+      "margin": 50123,
+      "electors": 194462,
+      "turnout": 82.91,
+      "nota": 400
+    },
+    "imageFiles": [
+      "Const12_cpim.png",
+      "Const12_012.jpg",
+      "Const12_bjp.svg",
+      "Const12_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "13",
+    "name": "THALASSERY",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Karayi Rajan",
+        "party": "CPI(M)",
+        "partyLogo": "Const13_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. P. Saju",
+        "party": "INC",
+        "partyLogo": "Const13_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "O. Nidheesh",
+        "party": "BJP",
+        "partyLogo": "Const13_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "A.C. Jalaluddin",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. A. N. SHAMSEER",
+      "winnerTotalVotes": 81810,
+      "runnerUpName": "M. P. ARAVINDAKSHAN",
+      "runnerUpTotalVotes": 45009,
+      "margin": 36801,
+      "electors": 175437,
+      "turnout": 76.13,
+      "nota": 2313
+    },
+    "imageFiles": [
+      "Const13_013.jpg",
+      "Const13_bjp.svg",
+      "Const13_cpim.png",
+      "Const13_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "14",
+    "name": "KUTHUPARAMBA",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. K. Praveen",
+        "party": "RJD",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Jayanthi Rajan",
+        "party": "IUML",
+        "partyLogo": "Const14_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. Shijilal",
+        "party": "BJP",
+        "partyLogo": "Const14_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Rafeed AP",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K.P. MOHANAN",
+      "winnerTotalVotes": 70626,
+      "runnerUpName": "POTTANKANDI ABDULLA",
+      "runnerUpTotalVotes": 61085,
+      "margin": 9541,
+      "electors": 194344,
+      "turnout": 80.36,
+      "nota": 494
+    },
+    "imageFiles": [
+      "Const14_iuml.svg",
+      "Const14_014.jpg",
+      "Const14_ljd.jpg",
+      "Const14_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "15",
+    "name": "MATTANNUR",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. K. Sanoj",
+        "party": "CPI(M)",
+        "partyLogo": "Const15_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Chandran Thillankeri",
+        "party": "INC",
+        "partyLogo": "Const15_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Biju Elakkuzhi",
+        "party": "BJP",
+        "partyLogo": "Const15_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Basheer Punnad",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K K SHAILAJA TEACHER",
+      "winnerTotalVotes": 96129,
+      "runnerUpName": "ILLIKKAL AUGUSTHY",
+      "runnerUpTotalVotes": 35166,
+      "margin": 60963,
+      "electors": 190139,
+      "turnout": 82.01,
+      "nota": 796
+    },
+    "imageFiles": [
+      "Const15_015.jpg",
+      "Const15_bjp.svg",
+      "Const15_inc.svg",
+      "Const15_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "16",
+    "name": "PERAVOOR",
+    "district": "Kannur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. K. Shailaja",
+        "party": "CPI(M)",
+        "partyLogo": "Const16_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sunny Joseph",
+        "party": "INC",
+        "partyLogo": "Const16_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Paily Vathiatt",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Henstion George",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv. Sunny Joseph",
+      "winnerTotalVotes": 66706,
+      "runnerUpName": "K V Sakkeer Hussain",
+      "runnerUpTotalVotes": 63534,
+      "margin": 3172,
+      "electors": 177818,
+      "turnout": 80.63,
+      "nota": 404
+    },
+    "imageFiles": [
+      "Const16_inc.svg",
+      "Const16_cpim.png",
+      "Const16_016.jpg"
+    ]
+  },
+  {
+    "constituencyId": "17",
+    "name": "MANANTHAVADY (ST)",
+    "district": "Wayanad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "O. R. Kelu",
+        "party": "CPI(M)",
+        "partyLogo": "Const17_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Usha Vijayan",
+        "party": "INC",
+        "partyLogo": "Const17_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. Shyam Raj",
+        "party": "BJP",
+        "partyLogo": "Const17_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Vishnu P.G",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "O.R.KELU",
+      "winnerTotalVotes": 72536,
+      "runnerUpName": "P.K.Jayalakshmi",
+      "runnerUpTotalVotes": 63254,
+      "margin": 9282,
+      "electors": 195326,
+      "turnout": 78.33,
+      "nota": 797
+    },
+    "imageFiles": [
+      "Const17_017.jpg",
+      "Const17_cpim.png",
+      "Const17_bjp.svg",
+      "Const17_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "18",
+    "name": "SULTHANBATHERY (ST)",
+    "district": "Wayanad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. S. Viswanathan",
+        "party": "CPI(M)",
+        "partyLogo": "Const18_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "I. C. Balakrishnan",
+        "party": "INC",
+        "partyLogo": "Const18_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "A. S. Kavitha",
+        "party": "BJP",
+        "partyLogo": "Const18_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Prakrithi N V",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "I.C BALAKRISHNAN",
+      "winnerTotalVotes": 81077,
+      "runnerUpName": "M.S VISWANATHAN",
+      "runnerUpTotalVotes": 69255,
+      "margin": 11822,
+      "electors": 220642,
+      "turnout": 75.99,
+      "nota": 1160
+    },
+    "imageFiles": [
+      "Const18_cpim.png",
+      "Const18_bjp.svg",
+      "Const18_018.jpg",
+      "Const18_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "19",
+    "name": "KALPETTA",
+    "district": "Wayanad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. K. Anil Kumar",
+        "party": "RJD",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. Siddique",
+        "party": "INC",
+        "partyLogo": "Const19_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Prasanth Malavayal",
+        "party": "BJP",
+        "partyLogo": "Const19_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Rafeek C A",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv.T SIDDIQU",
+      "winnerTotalVotes": 70252,
+      "runnerUpName": "M.V.SHREYAMSKUMAR",
+      "runnerUpTotalVotes": 64782,
+      "margin": 5470,
+      "electors": 201192,
+      "turnout": 75.84,
+      "nota": 828
+    },
+    "imageFiles": [
+      "Const19_inc.svg",
+      "Const19_bjp.svg",
+      "Const19_019.jpg"
+    ]
+  },
+  {
+    "constituencyId": "20",
+    "name": "VADAKARA",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. K. Bhaskaran",
+        "party": "RJD",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. K. Rema",
+        "party": "RMPI",
+        "partyLogo": "Const20_rmpi.jpg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. Dileep",
+        "party": "BJP",
+        "partyLogo": "Const20_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "K.K.REMA",
+      "winnerTotalVotes": 65093,
+      "runnerUpName": "MANAYATH CHANDRAN",
+      "runnerUpTotalVotes": 57602,
+      "margin": 7491,
+      "electors": 167694,
+      "turnout": 81.9,
+      "nota": 353
+    },
+    "imageFiles": [
+      "Const20_bjp.svg",
+      "Const20_rmpi.jpg",
+      "Const20_020.jpg"
+    ]
+  },
+  {
+    "constituencyId": "21",
+    "name": "KUTTIADI",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. P. Kunhammad Kutti Master",
+        "party": "CPI(M)",
+        "partyLogo": "Const21_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Parakkal Abdulla",
+        "party": "IUML",
+        "partyLogo": "Const21_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Ramadas Manaleri",
+        "party": "BJP",
+        "partyLogo": "Const21_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K P KUNHAMMED KUTTI MASTER",
+      "winnerTotalVotes": 80143,
+      "runnerUpName": "PARAKKAL ABDULLA",
+      "runnerUpTotalVotes": 79810,
+      "margin": 333,
+      "electors": 202518,
+      "turnout": 83.94,
+      "nota": 296
+    },
+    "imageFiles": [
+      "Const21_cpim.png",
+      "Const21_021.jpg",
+      "Const21_iuml.svg",
+      "Const21_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "22",
+    "name": "NADAPURAM (SC)",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. Vasantham",
+        "party": "CPI",
+        "partyLogo": "Const22_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. M. Abhijith",
+        "party": "INC",
+        "partyLogo": "Const22_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "C. P. Vipin Chandran",
+        "party": "BJP",
+        "partyLogo": "Const22_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "E. K. VIJAYAN",
+      "winnerTotalVotes": 83293,
+      "runnerUpName": "ADV. K. PRAVEEN KUMAR",
+      "runnerUpTotalVotes": 79258,
+      "margin": 4035,
+      "electors": 216491,
+      "turnout": 81.14,
+      "nota": 316
+    },
+    "imageFiles": [
+      "Const22_inc.svg",
+      "Const22_cpi.svg",
+      "Const22_bjp.svg",
+      "Const22_022.jpg"
+    ]
+  },
+  {
+    "constituencyId": "23",
+    "name": "QUILANDY",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Dasan",
+        "party": "CPI(M)",
+        "partyLogo": "Const23_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. Praveen Kumar",
+        "party": "INC",
+        "partyLogo": "Const23_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "C. R. Praphul Krishnan",
+        "party": "BJP",
+        "partyLogo": "Const23_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Musthafa PK (Padinjare Kuniyoth)",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Kanathil Jameela",
+      "winnerTotalVotes": 75628,
+      "runnerUpName": "N. Subramaniyan",
+      "runnerUpTotalVotes": 67156,
+      "margin": 8472,
+      "electors": 206652,
+      "turnout": 78.64,
+      "nota": 492
+    },
+    "imageFiles": [
+      "Const23_inc.svg",
+      "Const23_bjp.svg",
+      "Const23_023.jpg",
+      "Const23_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "24",
+    "name": "PERAMBRA",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "T. P. Ramakrishnan",
+        "party": "CPI(M)",
+        "partyLogo": "Const24_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Fathima Thahiliya",
+        "party": "IUML",
+        "partyLogo": "Const24_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "M. Mohanan Master",
+        "party": "BJP",
+        "partyLogo": "Const24_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Ranjith Malayil",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "T.P. RAMAKRISHNAN",
+      "winnerTotalVotes": 86023,
+      "runnerUpName": "C H EBRAHIMKUTTY S/O KUNJAMMED",
+      "runnerUpTotalVotes": 63431,
+      "margin": 22592,
+      "electors": 199016,
+      "turnout": 82.52,
+      "nota": 458
+    },
+    "imageFiles": [
+      "Const24_024.jpg",
+      "Const24_cpim.png",
+      "Const24_bjp.svg",
+      "Const24_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "25",
+    "name": "BALUSSERI (SC)",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. M. Sachindev",
+        "party": "CPI(M)",
+        "partyLogo": "Const25_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. T. Sooraj",
+        "party": "INC",
+        "partyLogo": "Const25_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "C. P. Sateeshan",
+        "party": "BJP",
+        "partyLogo": "Const25_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. K.M. SACHINDEV",
+      "winnerTotalVotes": 91839,
+      "runnerUpName": "DHARMAJAN BOLGATTY",
+      "runnerUpTotalVotes": 71467,
+      "margin": 20372,
+      "electors": 225249,
+      "turnout": 80.91,
+      "nota": 431
+    },
+    "imageFiles": [
+      "Const25_inc.svg",
+      "Const25_025.jpg",
+      "Const25_cpim.png",
+      "Const25_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "26",
+    "name": "ELATHUR",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "A. K. Saseendran",
+        "party": "NCP(SP)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Vidya Balakrishnan",
+        "party": "INC",
+        "partyLogo": "Const26_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "T. Devadas",
+        "party": "BJP",
+        "partyLogo": "Const26_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Abdul Basith Atholi",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "A .K Saseendran",
+      "winnerTotalVotes": 83639,
+      "runnerUpName": "Sulphikar Mayoori",
+      "runnerUpTotalVotes": 45137,
+      "margin": 38502,
+      "electors": 204036,
+      "turnout": 80.68,
+      "nota": 984
+    },
+    "imageFiles": [
+      "Const26_026.jpg",
+      "Const26_inc.svg",
+      "Const26_bjp.svg",
+      "Const26_ncp.png"
+    ]
+  },
+  {
+    "constituencyId": "27",
+    "name": "KOZHIKODE NORTH",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Thottathil Ravindran",
+        "party": "CPI(M)",
+        "partyLogo": "Const27_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. Jayanth",
+        "party": "INC",
+        "partyLogo": "Const27_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Navya Haridas",
+        "party": "BJP",
+        "partyLogo": "Const27_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dr. Alphonsa Mathew",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Thottathil Ravindran",
+      "winnerTotalVotes": 59124,
+      "runnerUpName": "K M ABHIJITH",
+      "runnerUpTotalVotes": 46196,
+      "margin": 12928,
+      "electors": 181191,
+      "turnout": 75.98,
+      "nota": 516
+    },
+    "imageFiles": [
+      "Const27_inc.svg",
+      "Const27_cpim.png",
+      "Const27_bjp.svg",
+      "Const27_027.jpg"
+    ]
+  },
+  {
+    "constituencyId": "28",
+    "name": "KOZHIKODE SOUTH",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Ahamed Devarkovil",
+        "party": "INL",
+        "partyLogo": "Const28_inl.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Faisal Babu",
+        "party": "IUML",
+        "partyLogo": "Const28_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "T. Raneesh",
+        "party": "BJP",
+        "partyLogo": "Const28_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "AHAMMAD DEVARKOVIL",
+      "winnerTotalVotes": 52557,
+      "runnerUpName": "ADV. NOORBEENA RASHEED",
+      "runnerUpTotalVotes": 40098,
+      "margin": 12459,
+      "electors": 157397,
+      "turnout": 75.79,
+      "nota": 603
+    },
+    "imageFiles": [
+      "Const28_iuml.svg",
+      "Const28_inl.png",
+      "Const28_bjp.svg",
+      "Const28_028.jpg"
+    ]
+  },
+  {
+    "constituencyId": "29",
+    "name": "BEYPORE",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Muhammad Riyas",
+        "party": "CPI(M)",
+        "partyLogo": "Const29_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. V. Anvar",
+        "party": "AITC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. P. Prakash Babu",
+        "party": "BJP",
+        "partyLogo": "Const29_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. P. A MOHAMED RIYAS",
+      "winnerTotalVotes": 82165,
+      "runnerUpName": "Adv. P. M NIYAS",
+      "runnerUpTotalVotes": 53418,
+      "margin": 28747,
+      "electors": 208219,
+      "turnout": 79.4,
+      "nota": 621
+    },
+    "imageFiles": [
+      "Const29_029.jpg",
+      "Const29_cpim.png",
+      "Const29_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "30",
+    "name": "KUNNAMANGALAM",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. T. A. Rahim",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "M. A. Razak Master",
+        "party": "IUML",
+        "partyLogo": "Const30_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "V. K. Sajeevan",
+        "party": "BJP",
+        "partyLogo": "Const30_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "ADV. P. T. A RAHIM",
+      "winnerTotalVotes": 85138,
+      "runnerUpName": "DINESH PERUMANNA",
+      "runnerUpTotalVotes": 74862,
+      "margin": 10276,
+      "electors": 231715,
+      "turnout": 83.82,
+      "nota": 864
+    },
+    "imageFiles": [
+      "Const30_iuml.svg",
+      "Const30_bjp.svg",
+      "Const30_030.jpg"
+    ]
+  },
+  {
+    "constituencyId": "31",
+    "name": "KODUVALLY",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Saleem Madavoor",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. K. Firos",
+        "party": "IUML",
+        "partyLogo": "Const31_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Giri Pambanal",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Bavan Kutty K M",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "DR. M.K MUNEER",
+      "winnerTotalVotes": 72336,
+      "runnerUpName": "KARAT RAZACK",
+      "runnerUpTotalVotes": 65992,
+      "margin": 6344,
+      "electors": 183551,
+      "turnout": 82.44,
+      "nota": 269
+    },
+    "imageFiles": [
+      "Const31_031.jpg",
+      "Const31_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "32",
+    "name": "THIRUVAMBADY",
+    "district": "Kozhikode",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Linto Joseph",
+        "party": "CPI(M)",
+        "partyLogo": "Const32_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "C. K. Kasim",
+        "party": "IUML",
+        "partyLogo": "Const32_iuml.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Sunny Thomas",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Sunny V Joseph",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Linto Joseph",
+      "winnerTotalVotes": 67867,
+      "runnerUpName": "C. P. Cheriya Muhammed",
+      "runnerUpTotalVotes": 63224,
+      "margin": 4643,
+      "electors": 180570,
+      "turnout": 79.4,
+      "nota": 419
+    },
+    "imageFiles": [
+      "Const32_032.jpg",
+      "Const32_iuml.svg",
+      "Const32_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "33",
+    "name": "KONDOTTY",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Dr. P. Jiji",
+        "party": "CPI(M)",
+        "partyLogo": "Const33_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. P. Ashrafali",
+        "party": "IUML",
+        "partyLogo": "Const33_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. Subrahmanian",
+        "party": "BJP",
+        "partyLogo": "Const33_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "M. Abdul Khader",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "T V IBRAHIM",
+      "winnerTotalVotes": 82759,
+      "runnerUpName": "KATTUPARUTHY SULAIMAN HAJI",
+      "runnerUpTotalVotes": 65093,
+      "margin": 17666,
+      "electors": 205411,
+      "turnout": 80.25,
+      "nota": 554
+    },
+    "imageFiles": [
+      "Const33_033.jpg",
+      "Const33_cpim.png",
+      "Const33_bjp.svg",
+      "Const33_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "34",
+    "name": "ERANAD",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Shafeer Kizhisseri",
+        "party": "CPI",
+        "partyLogo": "Const34_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. K. Basheer",
+        "party": "IUML",
+        "partyLogo": "Const34_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. N. Sreeprakash",
+        "party": "BJP",
+        "partyLogo": "Const34_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Yusuf Chemmala",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "P.K. Basheer",
+      "winnerTotalVotes": 78076,
+      "runnerUpName": "K.T. Abdurahiman",
+      "runnerUpTotalVotes": 55530,
+      "margin": 22546,
+      "electors": 179951,
+      "turnout": 79.68,
+      "nota": 636
+    },
+    "imageFiles": [
+      "Const34_iuml.svg",
+      "Const34_034.jpg",
+      "Const34_cpi.svg",
+      "Const34_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "35",
+    "name": "NILAMBUR",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "U. Sharafali",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Aryadan Shoukath",
+        "party": "INC",
+        "partyLogo": "Const35_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Gireesh Mekkad",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jaisal Maliyekkal",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P.V. ANVAR",
+      "winnerTotalVotes": 81227,
+      "runnerUpName": "ADV: V.V. PRAKASH",
+      "runnerUpTotalVotes": 78527,
+      "margin": 2700,
+      "electors": 225356,
+      "turnout": 76.96,
+      "nota": 507
+    },
+    "imageFiles": [
+      "Const35_inc.svg",
+      "Const35_035.jpg"
+    ]
+  },
+  {
+    "constituencyId": "36",
+    "name": "WANDOOR (SC)",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. K. Damodaran",
+        "party": "CPI(M)",
+        "partyLogo": "Const36_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "A. P. Anil Kumar",
+        "party": "INC",
+        "partyLogo": "Const36_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "E. P. Kumaradas",
+        "party": "JRS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "A P ANILKUMAR",
+      "winnerTotalVotes": 87415,
+      "runnerUpName": "MIDHUNA P",
+      "runnerUpTotalVotes": 71852,
+      "margin": 15563,
+      "electors": 226426,
+      "turnout": 75.25,
+      "nota": 664
+    },
+    "imageFiles": [
+      "Const36_inc.svg",
+      "Const36_036.jpg",
+      "Const36_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "37",
+    "name": "MANJERI",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. Mustafa",
+        "party": "Independent (CPI support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "M. Rahmathulla",
+        "party": "IUML",
+        "partyLogo": "Const37_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Pathmasree M.",
+        "party": "BJP",
+        "partyLogo": "Const37_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. PPA Sageer",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv. U.A. LATHEEF",
+      "winnerTotalVotes": 78836,
+      "runnerUpName": "NAZAR DEBONA",
+      "runnerUpTotalVotes": 64263,
+      "margin": 14573,
+      "electors": 207051,
+      "turnout": 75.95,
+      "nota": 1202
+    },
+    "imageFiles": [
+      "Const37_037.jpg",
+      "Const37_iuml.svg",
+      "Const37_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "38",
+    "name": "PERINTHALMANNA",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. P. Muhammad Haneefa",
+        "party": "CPI(M)",
+        "partyLogo": "Const38_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Najeeb Kanthapuram",
+        "party": "IUML",
+        "partyLogo": "Const38_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. K.P. Baburaj",
+        "party": "BJP",
+        "partyLogo": "Const38_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "NAJEEB KANTHAPURAM",
+      "winnerTotalVotes": 76530,
+      "runnerUpName": "K P M MUSTHAFA S/o MUHAMMEDALI HAJI",
+      "runnerUpTotalVotes": 76492,
+      "margin": 38,
+      "electors": 218090,
+      "turnout": 75.99,
+      "nota": 867
+    },
+    "imageFiles": [
+      "Const38_cpim.png",
+      "Const38_038.jpg",
+      "Const38_iuml.svg",
+      "Const38_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "39",
+    "name": "MANKADA",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Kunnath Muhammed",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Manjalamkuzhi Ali",
+        "party": "IUML",
+        "partyLogo": "Const39_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Lijoy Paul",
+        "party": "BJP",
+        "partyLogo": "Const39_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dr. C.H. Ashraf",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "MANJALAMKUZHI ALI",
+      "winnerTotalVotes": 83231,
+      "runnerUpName": "Adv. T.K. RASHEEDALI",
+      "runnerUpTotalVotes": 76985,
+      "margin": 6246,
+      "electors": 218872,
+      "turnout": 76.99,
+      "nota": 599
+    },
+    "imageFiles": [
+      "Const39_039.jpg",
+      "Const39_bjp.svg",
+      "Const39_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "40",
+    "name": "MALAPPURAM",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. T. Mujeeb",
+        "party": "NCP(SP)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. K. Kunhalikutty",
+        "party": "IUML",
+        "partyLogo": "Const40_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Ashwathy Gupatha Kumar",
+        "party": "BJP",
+        "partyLogo": "Const40_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Aboobacker K.P. (Kundupuzhakkal)",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Sadiq Naduthodi",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "P. UBAIDULLA",
+      "winnerTotalVotes": 93166,
+      "runnerUpName": "PALOLI ABDURAHIMAN",
+      "runnerUpTotalVotes": 57958,
+      "margin": 35208,
+      "electors": 212076,
+      "turnout": 76.56,
+      "nota": 994
+    },
+    "imageFiles": [
+      "Const40_040.jpg",
+      "Const40_bjp.svg",
+      "Const40_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "41",
+    "name": "VENGARA",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Muhammad Sabah Kundukuzhikkal",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. M. Shaji",
+        "party": "IUML",
+        "partyLogo": "Const41_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Jayakrishnan V.N.",
+        "party": "BJP",
+        "partyLogo": "Const41_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "P.K KUNJHALIKUTTY",
+      "winnerTotalVotes": 70381,
+      "runnerUpName": "P. JIJI",
+      "runnerUpTotalVotes": 39785,
+      "margin": 30596,
+      "electors": 185377,
+      "turnout": 71.09,
+      "nota": 787
+    },
+    "imageFiles": [
+      "Const41_041.jpg",
+      "Const41_iuml.svg",
+      "Const41_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "42",
+    "name": "VALLIKKUNNU",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Adv. C. P. Musthafa",
+        "party": "Independent (INL support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. V. Ibrahim",
+        "party": "IUML",
+        "partyLogo": "Const42_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "M. Preman Master",
+        "party": "BJP",
+        "partyLogo": "Const42_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Abdul Azeez Kadalundi",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "ABDUL HAMEED MASTER",
+      "winnerTotalVotes": 71823,
+      "runnerUpName": "Prof. A.P. ABDUL VAHAB",
+      "runnerUpTotalVotes": 57707,
+      "margin": 14116,
+      "electors": 198962,
+      "turnout": 76.27,
+      "nota": 1150
+    },
+    "imageFiles": [
+      "Const42_bjp.svg",
+      "Const42_iuml.svg",
+      "Const42_042.jpg"
+    ]
+  },
+  {
+    "constituencyId": "43",
+    "name": "TIRURANGADI",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Ajit Koladi",
+        "party": "CPI",
+        "partyLogo": "Const43_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. M. A. Sameer",
+        "party": "IUML",
+        "partyLogo": "Const43_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Riju C. Raghav",
+        "party": "BJP",
+        "partyLogo": "Const43_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Moosa Jarathingal",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "K P A MAJEED",
+      "winnerTotalVotes": 73499,
+      "runnerUpName": "NIYAS PULIKKALAKATH",
+      "runnerUpTotalVotes": 63921,
+      "margin": 9578,
+      "electors": 197158,
+      "turnout": 75.07,
+      "nota": 721
+    },
+    "imageFiles": [
+      "Const43_043.jpg",
+      "Const43_iuml.svg",
+      "Const43_cpi.svg",
+      "Const43_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "44",
+    "name": "TANUR",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Muhammed Sameer",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. K. Navas",
+        "party": "IUML",
+        "partyLogo": "Const44_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Deepa Puzhakkal",
+        "party": "BJP",
+        "partyLogo": "Const44_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "V.ABDURAHIMAN",
+      "winnerTotalVotes": 70704,
+      "runnerUpName": "P.K.FIROS",
+      "runnerUpTotalVotes": 69719,
+      "margin": 985,
+      "electors": 196123,
+      "turnout": 77.87,
+      "nota": 336
+    },
+    "imageFiles": [
+      "Const44_nsc.svg",
+      "Const44_bjp.svg",
+      "Const44_044.jpg",
+      "Const44_iuml.svg"
+    ]
+  },
+  {
+    "constituencyId": "45",
+    "name": "TIRUR",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. Abdurahman",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Kurukkoli Moideen",
+        "party": "IUML",
+        "partyLogo": "Const45_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. Narayanan Master",
+        "party": "BJP",
+        "partyLogo": "Const45_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Kabeer Shameer Kuttoor",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "KURUKKOLI MOIDEEN",
+      "winnerTotalVotes": 82314,
+      "runnerUpName": "Adv. GAFOOR P LILLIS",
+      "runnerUpTotalVotes": 75100,
+      "margin": 7214,
+      "electors": 229493,
+      "turnout": 74.45,
+      "nota": 417
+    },
+    "imageFiles": [
+      "Const45_iuml.svg",
+      "Const45_045.jpg",
+      "Const45_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "46",
+    "name": "KOTTAKKAL",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Preethi",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. K. Abid Hussain Thangal",
+        "party": "IUML",
+        "partyLogo": "Const46_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Subrahmanian Chunkapally",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Majeed Marakkara",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "PROF. ABID HUSSAIN THANGAL",
+      "winnerTotalVotes": 81700,
+      "runnerUpName": "N. A. MUHAMMED KUTTY (MAMMUTY)",
+      "runnerUpTotalVotes": 65112,
+      "margin": 16588,
+      "electors": 216518,
+      "turnout": 74.01,
+      "nota": 668
+    },
+    "imageFiles": [
+      "Const46_iuml.svg",
+      "Const46_046.jpg"
+    ]
+  },
+  {
+    "constituencyId": "47",
+    "name": "THAVANUR",
+    "district": "Malappuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. T. Jaleel",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. S. Joy",
+        "party": "INC",
+        "partyLogo": "Const47_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Ravi Thelath",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Abdul Jaleel",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "DR.K.T.JALEEL",
+      "winnerTotalVotes": 70358,
+      "runnerUpName": "FIROS KUNNAMPARAMBIL",
+      "runnerUpTotalVotes": 67794,
+      "margin": 2564,
+      "electors": 200016,
+      "turnout": 75.82,
+      "nota": 478
+    },
+    "imageFiles": [
+      "Const47_inc.svg",
+      "Const47_047.jpg"
+    ]
+  },
+  {
+    "constituencyId": "48",
+    "name": "PONNANI",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. K. Sakeer",
+        "party": "CPI(M)",
+        "partyLogo": "Const48_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. P. Noushad Ali",
+        "party": "INC",
+        "partyLogo": "Const48_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "E. Maneesh",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Anvar Pazhanji",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P NANDAKUMAR",
+      "winnerTotalVotes": 74668,
+      "runnerUpName": "Adv. A.M. ROHITH",
+      "runnerUpTotalVotes": 57625,
+      "margin": 17043,
+      "electors": 205353,
+      "turnout": 70.9,
+      "nota": 467
+    },
+    "imageFiles": [
+      "Const48_cpim.png",
+      "Const48_inc.svg",
+      "Const48_048.jpg"
+    ]
+  },
+  {
+    "constituencyId": "49",
+    "name": "THRITHALA",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. B. Rajesh",
+        "party": "CPI(M)",
+        "partyLogo": "Const49_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. T. Balram",
+        "party": "INC",
+        "partyLogo": "Const49_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "V. Unnikrishnan Master",
+        "party": "BJP",
+        "partyLogo": "Const49_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Shaheer Chalippuram",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M. B RAJESH",
+      "winnerTotalVotes": 69814,
+      "runnerUpName": "V .T BALRAM",
+      "runnerUpTotalVotes": 66798,
+      "margin": 3016,
+      "electors": 194236,
+      "turnout": 78.54,
+      "nota": 427
+    },
+    "imageFiles": [
+      "Const49_cpim.png",
+      "Const49_049.jpg",
+      "Const49_bjp.svg",
+      "Const49_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "50",
+    "name": "PATTAMBI",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Muhammed Muhassin P.",
+        "party": "CPI",
+        "partyLogo": "Const50_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. P. Shaji",
+        "party": "INC",
+        "partyLogo": "Const50_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. P. Manoj",
+        "party": "BJP",
+        "partyLogo": "Const50_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "S.P. Ameer Ali",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Muhammed Muhassin",
+      "winnerTotalVotes": 75311,
+      "runnerUpName": "Riyas Mukkoli",
+      "runnerUpTotalVotes": 57337,
+      "margin": 17974,
+      "electors": 194989,
+      "turnout": 78.06,
+      "nota": 390
+    },
+    "imageFiles": [
+      "Const50_050.jpg",
+      "Const50_cpi.svg",
+      "Const50_bjp.svg",
+      "Const50_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "51",
+    "name": "SHORNUR",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. Mammikkutty",
+        "party": "CPI(M)",
+        "partyLogo": "Const51_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. Harigovindan",
+        "party": "INC",
+        "partyLogo": "Const51_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Sanku T. Das",
+        "party": "BJP",
+        "partyLogo": "Const51_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P. MAMMIKUTTY",
+      "winnerTotalVotes": 74400,
+      "runnerUpName": "FIROZ BABU.T.H",
+      "runnerUpTotalVotes": 37726,
+      "margin": 36674,
+      "electors": 194287,
+      "turnout": 78.32,
+      "nota": 678
+    },
+    "imageFiles": [
+      "Const51_051.jpg",
+      "Const51_cpim.png",
+      "Const51_inc.svg",
+      "Const51_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "52",
+    "name": "OTTAPALAM",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Premkumar",
+        "party": "CPI(M)",
+        "partyLogo": "Const52_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. K. Sasi",
+        "party": "Independent (INC Support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Major Ravi",
+        "party": "BJP",
+        "partyLogo": "Const52_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. K. PREMKUMAR",
+      "winnerTotalVotes": 74859,
+      "runnerUpName": "DOCTOR P. SARIN",
+      "runnerUpTotalVotes": 59707,
+      "margin": 15152,
+      "electors": 208304,
+      "turnout": 77.54,
+      "nota": 867
+    },
+    "imageFiles": [
+      "Const52_cpim.png",
+      "Const52_052.jpg",
+      "Const52_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "53",
+    "name": "KONGAD (SC)",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Santhakumari K.",
+        "party": "CPI(M)",
+        "partyLogo": "Const53_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. A. Thulasi",
+        "party": "INC",
+        "partyLogo": "Const53_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Renu Suresh",
+        "party": "BJP",
+        "partyLogo": "Const53_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Santhakumari K",
+      "winnerTotalVotes": 67881,
+      "runnerUpName": "U C Raman",
+      "runnerUpTotalVotes": 40662,
+      "margin": 27219,
+      "electors": 181747,
+      "turnout": 76.83,
+      "nota": 953
+    },
+    "imageFiles": [
+      "Const53_bjp.svg",
+      "Const53_053.jpg",
+      "Const53_cpim.png",
+      "Const53_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "54",
+    "name": "MANNARKAD",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Manzil Aboobacker",
+        "party": "CPI",
+        "partyLogo": "Const54_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "N. Samsudheen",
+        "party": "IUML",
+        "partyLogo": "Const54_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Isaac Varghese",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Ashitha Najeeb",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "ADVOCATE. N. SAMSUDHEEN",
+      "winnerTotalVotes": 71657,
+      "runnerUpName": "K. P. SURESH RAJ",
+      "runnerUpTotalVotes": 65787,
+      "margin": 5870,
+      "electors": 198421,
+      "turnout": 76.75,
+      "nota": 760
+    },
+    "imageFiles": [
+      "Const54_cpi.svg",
+      "Const54_iuml.svg",
+      "Const54_054.jpg"
+    ]
+  },
+  {
+    "constituencyId": "55",
+    "name": "MALAMPUZHA",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "E. Prabhakaran",
+        "party": "CPI(M)",
+        "partyLogo": "Const55_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "A. Suresh",
+        "party": "INC",
+        "partyLogo": "Const55_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "C. Krishnakumar",
+        "party": "BJP",
+        "partyLogo": "Const55_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Saji P J",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "A. PRABHAKARAN",
+      "winnerTotalVotes": 75934,
+      "runnerUpName": "KRISHNAKUMAR.C",
+      "runnerUpTotalVotes": 50200,
+      "margin": 25734,
+      "electors": 213746,
+      "turnout": 76.94,
+      "nota": 1054
+    },
+    "imageFiles": [
+      "Const55_cpim.png",
+      "Const55_inc.svg",
+      "Const55_bjp.svg",
+      "Const55_055.jpg"
+    ]
+  },
+  {
+    "constituencyId": "56",
+    "name": "PALAKKAD",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "N. M. R. Razaq",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Ramesh Pisharody",
+        "party": "INC",
+        "partyLogo": "Const56_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Sobha Surendran",
+        "party": "BJP",
+        "partyLogo": "Const56_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Udayan Sukumaran",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "SHAFI PARAMBIL",
+      "winnerTotalVotes": 54079,
+      "runnerUpName": "E. SREEDHARAN",
+      "runnerUpTotalVotes": 50220,
+      "margin": 3859,
+      "electors": 188789,
+      "turnout": 75.44,
+      "nota": 528
+    },
+    "imageFiles": [
+      "Const56_bjp.svg",
+      "Const56_056.jpg",
+      "Const56_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "57",
+    "name": "TARUR (SC)",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. P. Sumod",
+        "party": "CPI(M)",
+        "partyLogo": "Const57_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. C. Subramanian",
+        "party": "INC",
+        "partyLogo": "Const57_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Suresh Babu",
+        "party": "BJP",
+        "partyLogo": "Const57_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P.P.SUMOD",
+      "winnerTotalVotes": 67744,
+      "runnerUpName": "K.A.SHEEBA",
+      "runnerUpTotalVotes": 43213,
+      "margin": 24531,
+      "electors": 170733,
+      "turnout": 77.12,
+      "nota": 940
+    },
+    "imageFiles": [
+      "Const57_cpim.png",
+      "Const57_bjp.svg",
+      "Const57_inc.svg",
+      "Const57_057.jpg"
+    ]
+  },
+  {
+    "constituencyId": "58",
+    "name": "CHITTUR",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Adv V. Murugadas",
+        "party": "Indian Socialist Janata Dal",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sumesh Achuthan",
+        "party": "INC",
+        "partyLogo": "Const58_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Pranesh Rajendran",
+        "party": "BJP",
+        "partyLogo": "Const58_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K. KRISHNANKUTTY",
+      "winnerTotalVotes": 84672,
+      "runnerUpName": "Adv. SUMESH ACHUTHAN",
+      "runnerUpTotalVotes": 50794,
+      "margin": 33878,
+      "electors": 189510,
+      "turnout": 80.88,
+      "nota": 1285
+    },
+    "imageFiles": [
+      "Const58_058.jpg",
+      "Const58_jds.svg",
+      "Const58_inc.svg",
+      "Const58_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "59",
+    "name": "NENMARA",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Preman",
+        "party": "CPI(M)",
+        "partyLogo": "Const59_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "A. Thankappan",
+        "party": "INC",
+        "partyLogo": "Const59_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "A. N. Anurag",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Anvar Sadiq",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K. Babu",
+      "winnerTotalVotes": 80145,
+      "runnerUpName": "C.N.Vijayakrishnan",
+      "runnerUpTotalVotes": 51441,
+      "margin": 28704,
+      "electors": 193075,
+      "turnout": 78.64,
+      "nota": 1070
+    },
+    "imageFiles": [
+      "Const59_inc.svg",
+      "Const59_cpim.png",
+      "Const59_059.jpg"
+    ]
+  },
+  {
+    "constituencyId": "60",
+    "name": "ALATHUR",
+    "district": "Palakkad",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "T. M. Sasi",
+        "party": "CPI(M)",
+        "partyLogo": "Const60_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. N. Febin",
+        "party": "INC",
+        "partyLogo": "Const60_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K.V. Prasanna Kumar",
+        "party": "BJP",
+        "partyLogo": "Const60_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K.D.PRASENAN",
+      "winnerTotalVotes": 74653,
+      "runnerUpName": "PALAYAM PRADEEP",
+      "runnerUpTotalVotes": 40535,
+      "margin": 34118,
+      "electors": 171419,
+      "turnout": 79.1,
+      "nota": 783
+    },
+    "imageFiles": [
+      "Const60_cpim.png",
+      "Const60_060.jpg",
+      "Const60_bjp.svg",
+      "Const60_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "61",
+    "name": "CHELAKKARA (SC)",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "U. R. Pradeep",
+        "party": "CPI(M)",
+        "partyLogo": "Const61_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sivan Veettikkunnu",
+        "party": "Independent (IUML Support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. Balakrishnan",
+        "party": "BJP",
+        "partyLogo": "Const61_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "K V Subramaniyan",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "P. R. Vinod Kumar",
+        "party": "Current MLA",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K RADHAKRISHNAN",
+      "winnerTotalVotes": 83415,
+      "runnerUpName": "C C SREEKUMAR",
+      "runnerUpTotalVotes": 44015,
+      "margin": 39400,
+      "electors": 198392,
+      "turnout": 77.46,
+      "nota": 720
+    },
+    "imageFiles": [
+      "Const61_cpim.png",
+      "Const61_bjp.svg",
+      "Const61_061.jpg"
+    ]
+  },
+  {
+    "constituencyId": "62",
+    "name": "KUNNAMKULAM",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "A. C. Moideen",
+        "party": "CPI(M)",
+        "partyLogo": "Const62_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. T. Ajayamohan",
+        "party": "INC",
+        "partyLogo": "Const62_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Rijil K. R.",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Rajeev K Sivaraman",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "A.C.MOIDEEN",
+      "winnerTotalVotes": 75532,
+      "runnerUpName": "K.JAYASANKAR",
+      "runnerUpTotalVotes": 48901,
+      "margin": 26631,
+      "electors": 198378,
+      "turnout": 78.24,
+      "nota": 559
+    },
+    "imageFiles": [
+      "Const62_inc.svg",
+      "Const62_cpim.png",
+      "Const62_062.jpg"
+    ]
+  },
+  {
+    "constituencyId": "63",
+    "name": "GURUVAYOOR",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "N. K. Akbar",
+        "party": "CPI(M)",
+        "partyLogo": "Const63_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "C. H. Rasheed",
+        "party": "IUML",
+        "partyLogo": "Const63_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. B. Gopalakrishnan",
+        "party": "BJP",
+        "partyLogo": "Const63_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Pauly Francis Guruvayur",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "K.V. Abdul Nasar Paroor",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "N.K.AKBAR",
+      "winnerTotalVotes": 77072,
+      "runnerUpName": "Adv.K N A KHADER",
+      "runnerUpTotalVotes": 58804,
+      "margin": 18268,
+      "electors": 211447,
+      "turnout": 69.65,
+      "nota": 1007
+    },
+    "imageFiles": [
+      "Const63_bjp.svg",
+      "Const63_iuml.svg",
+      "Const63_063.jpg",
+      "Const63_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "64",
+    "name": "MANALUR",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "C. Ravindranath",
+        "party": "CPI(M)",
+        "partyLogo": "Const64_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. N. Prathapan",
+        "party": "INC",
+        "partyLogo": "Const64_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. K. Aneesh Kumar",
+        "party": "BJP",
+        "partyLogo": "Const64_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Unnikrishnan C. S.",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dileef Abdul Khader",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "MURALI",
+      "winnerTotalVotes": 78337,
+      "runnerUpName": "VIJAY HARI",
+      "runnerUpTotalVotes": 48461,
+      "margin": 29876,
+      "electors": 222706,
+      "turnout": 75.63,
+      "nota": 712
+    },
+    "imageFiles": [
+      "Const64_bjp.svg",
+      "Const64_064.jpg",
+      "Const64_cpim.png",
+      "Const64_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "65",
+    "name": "WADAKKANCHERY",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Xeviyar Chittilappally",
+        "party": "CPI(M)",
+        "partyLogo": "Const65_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P N Vaisakh",
+        "party": "INC",
+        "partyLogo": "Const65_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. T.S. Ullas Babu",
+        "party": "BJP",
+        "partyLogo": "Const65_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jithin Sadanananthan",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Xavier Chittilappilly",
+      "winnerTotalVotes": 81026,
+      "runnerUpName": "Anil Akkara",
+      "runnerUpTotalVotes": 65858,
+      "margin": 15168,
+      "electors": 218083,
+      "turnout": 78.18,
+      "nota": 842
+    },
+    "imageFiles": [
+      "Const65_inc.svg",
+      "Const65_bjp.svg",
+      "Const65_065.jpg",
+      "Const65_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "66",
+    "name": "WADAKKANCHERY",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Rajan",
+        "party": "CPI",
+        "partyLogo": "Const66_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Shaji Kodankandath",
+        "party": "INC",
+        "partyLogo": "Const66_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Bijoy Thomas",
+        "party": "BJP",
+        "partyLogo": "Const66_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "V P Prinson Avinissery",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Xavier Chittilappilly",
+      "winnerTotalVotes": 81026,
+      "runnerUpName": "Anil Akkara",
+      "runnerUpTotalVotes": 65858,
+      "margin": 15168,
+      "electors": 218083,
+      "turnout": 78.18,
+      "nota": 842
+    },
+    "imageFiles": [
+      "Const66_bjp.svg",
+      "Const66_066.jpg",
+      "Const66_inc.svg",
+      "Const66_cpi.svg"
+    ]
+  },
+  {
+    "constituencyId": "67",
+    "name": "THRISSUR",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Alankode Leelakrishnan",
+        "party": "CPI",
+        "partyLogo": "Const67_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Rajan Pallan",
+        "party": "INC",
+        "partyLogo": "Const67_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Padmaja Venugopal",
+        "party": "BJP",
+        "partyLogo": "Const67_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Rani Anto",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P BALACHANDRAN",
+      "winnerTotalVotes": 44263,
+      "runnerUpName": "PADMAJA VENUGOPAL",
+      "runnerUpTotalVotes": 43317,
+      "margin": 946,
+      "electors": 182823,
+      "turnout": 70.78,
+      "nota": 723
+    },
+    "imageFiles": [
+      "Const67_inc.svg",
+      "Const67_067.jpg",
+      "Const67_bjp.svg",
+      "Const67_cpi.svg"
+    ]
+  },
+  {
+    "constituencyId": "68",
+    "name": "NATTIKA (SC)",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Geetha Gopi",
+        "party": "CPI",
+        "partyLogo": "Const68_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sunil Lalur",
+        "party": "INC",
+        "partyLogo": "Const68_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "C. C. Mukundan",
+        "party": "BJP",
+        "partyLogo": "Const68_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Girijan A A",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "C C MUKUNDHAN",
+      "winnerTotalVotes": 72930,
+      "runnerUpName": "ADV. SUNIL LALOOR",
+      "runnerUpTotalVotes": 44499,
+      "margin": 28431,
+      "electors": 210708,
+      "turnout": 73.14,
+      "nota": 830
+    },
+    "imageFiles": [
+      "Const68_cpi.svg",
+      "Const68_068.jpg",
+      "Const68_inc.svg",
+      "Const68_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "69",
+    "name": "KAIPAMANGALAM",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. K. Valsaraj",
+        "party": "CPI",
+        "partyLogo": "Const69_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. M. Nazar",
+        "party": "INC",
+        "partyLogo": "Const69_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Athulya Ghosh",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jayan Eratt",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "A.M. Muhammed Riyas",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "E T TAISON MASTER",
+      "winnerTotalVotes": 73161,
+      "runnerUpName": "SOBHA SUBIN",
+      "runnerUpTotalVotes": 50463,
+      "margin": 22698,
+      "electors": 174025,
+      "turnout": 78.82,
+      "nota": 466
+    },
+    "imageFiles": [
+      "Const69_069.jpg",
+      "Const69_inc.svg",
+      "Const69_cpi.svg"
+    ]
+  },
+  {
+    "constituencyId": "70",
+    "name": "IRINJALAKKUDA",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "R. Bindu",
+        "party": "CPI(M)",
+        "partyLogo": "Const70_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Thomas Unniyadan",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Santhosh Cherkalam",
+        "party": "BJP",
+        "partyLogo": "Const70_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dr. Shaju K Y (Kavungal)",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "R Bindu",
+      "winnerTotalVotes": 62493,
+      "runnerUpName": "Thomas J Unniyadan",
+      "runnerUpTotalVotes": 56544,
+      "margin": 5949,
+      "electors": 201978,
+      "turnout": 77.17,
+      "nota": 590
+    },
+    "imageFiles": [
+      "Const70_cpim.png",
+      "Const70_070.jpg",
+      "Const70_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "71",
+    "name": "PUTHUKKAD",
+    "district": "Thrissur",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. K. Ramachandran",
+        "party": "CPI(M)",
+        "partyLogo": "Const71_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. M. Babu Raj",
+        "party": "INC",
+        "partyLogo": "Const71_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "A. Nagesh",
+        "party": "BJP",
+        "partyLogo": "Const71_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jayakrishnan P N",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K.K. Ramachandran",
+      "winnerTotalVotes": 73365,
+      "runnerUpName": "Sunil Anthikkad (Sunilkumar. P.V)",
+      "runnerUpTotalVotes": 46012,
+      "margin": 27353,
+      "electors": 201192,
+      "turnout": 77.86,
+      "nota": 1069
+    },
+    "imageFiles": [
+      "Const71_bjp.svg",
+      "Const71_inc.svg",
+      "Const71_071.jpg",
+      "Const71_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "72",
+    "name": "CHALAKKUDY",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Adv Biju Chirayath",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. J. Saneesh Kumar Joseph",
+        "party": "INC",
+        "partyLogo": "Const72_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Charly Paul",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Wilson Kallen",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Saneeshkumar Joseph",
+      "winnerTotalVotes": 61888,
+      "runnerUpName": "DENNIES K ANTONY",
+      "runnerUpTotalVotes": 60831,
+      "margin": 1057,
+      "electors": 192929,
+      "turnout": 74.42,
+      "nota": 1000
+    },
+    "imageFiles": [
+      "Const72_072.jpg",
+      "Const72_inc.svg",
+      "Const72_kcm.svg"
+    ]
+  },
+  {
+    "constituencyId": "73",
+    "name": "KODUNGALLUR",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. R. Sunil",
+        "party": "CPI",
+        "partyLogo": "Const73_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "O. J. Janeesh",
+        "party": "INC",
+        "partyLogo": "Const73_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Varghese George",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dr. K.M Francis Roy",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. V. R. SUNILKUMAR",
+      "winnerTotalVotes": 71457,
+      "runnerUpName": "M. P. JACKSON",
+      "runnerUpTotalVotes": 47564,
+      "margin": 23893,
+      "electors": 193042,
+      "turnout": 77.38,
+      "nota": 870
+    },
+    "imageFiles": [
+      "Const73_cpi.svg",
+      "Const73_inc.svg",
+      "Const73_073.jpg"
+    ]
+  },
+  {
+    "constituencyId": "74",
+    "name": "PERUMBAVOOR",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Basil Paul",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Manoj Moothedan",
+        "party": "INC",
+        "partyLogo": "Const74_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jibi Pathikkal",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv ELDOSE P KUNNAPILLIL",
+      "winnerTotalVotes": 53484,
+      "runnerUpName": "BABU JOSEPH PERUMBAVOOR",
+      "runnerUpTotalVotes": 50585,
+      "margin": 2899,
+      "electors": 184654,
+      "turnout": 78.37,
+      "nota": 703
+    },
+    "imageFiles": [
+      "Const74_inc.svg",
+      "Const74_074.jpg",
+      "Const74_kcm.svg"
+    ]
+  },
+  {
+    "constituencyId": "75",
+    "name": "ANGAMALY",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Saju Paul",
+        "party": "CPI(M)",
+        "partyLogo": "Const75_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Roji M. John",
+        "party": "INC",
+        "partyLogo": "Const75_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Promy Kuriakose",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Jose Chiramel Devassy",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "ROJI M JOHN",
+      "winnerTotalVotes": 71562,
+      "runnerUpName": "Adv. JOSE THETTAYIL",
+      "runnerUpTotalVotes": 55633,
+      "margin": 15929,
+      "electors": 178015,
+      "turnout": 78.16,
+      "nota": 669
+    },
+    "imageFiles": [
+      "Const75_cpim.png",
+      "Const75_075.jpg",
+      "Const75_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "76",
+    "name": "ALUVA",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "A. M. Ariff",
+        "party": "CPI(M)",
+        "partyLogo": "Const76_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Anwar Sadath",
+        "party": "INC",
+        "partyLogo": "Const76_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "M.A. Brahmaraj",
+        "party": "BJP",
+        "partyLogo": "Const76_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Hakhikhath Hameed",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "ANWAR SADATH",
+      "winnerTotalVotes": 73703,
+      "runnerUpName": "Ar SHELNA NISHAD",
+      "runnerUpTotalVotes": 54817,
+      "margin": 18886,
+      "electors": 196577,
+      "turnout": 76.72,
+      "nota": 939
+    },
+    "imageFiles": [
+      "Const76_inc.svg",
+      "Const76_bjp.svg",
+      "Const76_cpim.png",
+      "Const76_076.jpg"
+    ]
+  },
+  {
+    "constituencyId": "77",
+    "name": "KALAMASSERY",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. Rajeev",
+        "party": "CPI(M)",
+        "partyLogo": "Const77_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. E. Abdul Gafoor",
+        "party": "IUML",
+        "partyLogo": "Const77_iuml.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "M. P. Binu",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Shamsu T.K",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P. RAJEEVE",
+      "winnerTotalVotes": 77141,
+      "runnerUpName": "ADV. V. E. ABDUL GAFOOR",
+      "runnerUpTotalVotes": 61805,
+      "margin": 15336,
+      "electors": 201781,
+      "turnout": 77.42,
+      "nota": 1518
+    },
+    "imageFiles": [
+      "Const77_077.jpg",
+      "Const77_iuml.svg",
+      "Const77_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "78",
+    "name": "PARAVUR",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "E. T. Taison",
+        "party": "CPI",
+        "partyLogo": "Const78_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. D. Satheesan",
+        "party": "INC",
+        "partyLogo": "Const78_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Vathsala Prasanna Kumar",
+        "party": "BJP",
+        "partyLogo": "Const78_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "V.M. Faisal",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "V.D. SATHEESAN",
+      "winnerTotalVotes": 82264,
+      "runnerUpName": "M.T. NIXON",
+      "runnerUpTotalVotes": 60963,
+      "margin": 21301,
+      "electors": 201478,
+      "turnout": 79.02,
+      "nota": 1113
+    },
+    "imageFiles": [
+      "Const78_bjp.svg",
+      "Const78_078.jpg",
+      "Const78_cpi.svg",
+      "Const78_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "79",
+    "name": "VYPEN",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. B. Shyni",
+        "party": "CPI(M)",
+        "partyLogo": "Const79_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Tony Chammany",
+        "party": "INC",
+        "partyLogo": "Const79_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Anitha Thomas",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Mohandas PG",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K.N. Unnikrishnan",
+      "winnerTotalVotes": 53858,
+      "runnerUpName": "Deepak Joy",
+      "runnerUpTotalVotes": 45657,
+      "margin": 8201,
+      "electors": 172182,
+      "turnout": 75.95,
+      "nota": 525
+    },
+    "imageFiles": [
+      "Const79_079.jpg",
+      "Const79_inc.svg",
+      "Const79_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "80",
+    "name": "KOCHI",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. J. Maxy",
+        "party": "CPI(M)",
+        "partyLogo": "Const80_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Mohammed Shiyas",
+        "party": "INC",
+        "partyLogo": "Const80_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Xavier Joolappan",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Shakkerali",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Aneesh Mattancherry",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K.J. MAXY",
+      "winnerTotalVotes": 54632,
+      "runnerUpName": "TONY CHAMMANY",
+      "runnerUpTotalVotes": 40553,
+      "margin": 14079,
+      "electors": 181923,
+      "turnout": 70.93,
+      "nota": 474
+    },
+    "imageFiles": [
+      "Const80_cpim.png",
+      "Const80_inc.svg",
+      "Const80_080.jpg"
+    ]
+  },
+  {
+    "constituencyId": "81",
+    "name": "THRIPUNITHURA",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. N. Unnikrishnan",
+        "party": "CPI(M)",
+        "partyLogo": "Const81_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Deepak Joy",
+        "party": "INC",
+        "partyLogo": "Const81_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Anjali Nair",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Thomas Paul",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "K. BABU",
+      "winnerTotalVotes": 65875,
+      "runnerUpName": "Adv. M. SWARAJ",
+      "runnerUpTotalVotes": 64883,
+      "margin": 992,
+      "electors": 211714,
+      "turnout": 74.39,
+      "nota": 1099
+    },
+    "imageFiles": [
+      "Const81_inc.svg",
+      "Const81_cpim.png",
+      "Const81_081.jpg"
+    ]
+  },
+  {
+    "constituencyId": "82",
+    "name": "ERANAKULAM",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Sabu George",
+        "party": "Indian Socialist Janata Dal",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. J. Vinod",
+        "party": "INC",
+        "partyLogo": "Const82_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P.R. Sivasankar",
+        "party": "BJP",
+        "partyLogo": "Const82_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Moses Henry Motha",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "T. J. Vinod",
+      "winnerTotalVotes": 45930,
+      "runnerUpName": "SHAJI GEORGE PRANATHA",
+      "runnerUpTotalVotes": 34960,
+      "margin": 10970,
+      "electors": 164641,
+      "turnout": 67.21,
+      "nota": 712
+    },
+    "imageFiles": [
+      "Const82_inc.svg",
+      "Const82_082.jpg",
+      "Const82_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "83",
+    "name": "THRIKKAKARA",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Pushpadhas",
+        "party": "CPI(M)",
+        "partyLogo": "Const83_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Uma Thomas",
+        "party": "INC",
+        "partyLogo": "Const83_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Akhil Marar",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jose George",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Aloysius Kollannur",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv.P.T.THOMAS",
+      "winnerTotalVotes": 59839,
+      "runnerUpName": "Dr.J.JACOB",
+      "runnerUpTotalVotes": 45510,
+      "margin": 14329,
+      "electors": 194113,
+      "turnout": 70.5,
+      "nota": 695
+    },
+    "imageFiles": [
+      "Const83_inc.svg",
+      "Const83_cpim.png",
+      "Const83_083.jpg"
+    ]
+  },
+  {
+    "constituencyId": "84",
+    "name": "KUNNATHUNAD (SC)",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. V. Sreenijin",
+        "party": "CPI(M)",
+        "partyLogo": "Const84_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. P. Sajeendran",
+        "party": "INC",
+        "partyLogo": "Const84_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Babu Divakaran",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "ADV. P.V.SREENIJIN",
+      "winnerTotalVotes": 52351,
+      "runnerUpName": "V.P.SAJEENDRAN",
+      "runnerUpTotalVotes": 49636,
+      "margin": 2715,
+      "electors": 187820,
+      "turnout": 82.49,
+      "nota": 565
+    },
+    "imageFiles": [
+      "Const84_inc.svg",
+      "Const84_084.jpg",
+      "Const84_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "85",
+    "name": "PIRAVOM",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Sabu K Jacob",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Anoop Jacob",
+        "party": "KC(J)",
+        "partyLogo": "Const85_kcj.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jibi Abraham",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Eldho Abraham",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Babu Mathew Vengoor",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "ANOOP JACOB",
+      "winnerTotalVotes": 85056,
+      "runnerUpName": "Dr. SINDHUMOL JACOB",
+      "runnerUpTotalVotes": 59692,
+      "margin": 25364,
+      "electors": 212068,
+      "turnout": 74.85,
+      "nota": 1109
+    },
+    "imageFiles": [
+      "Const85_kcj.svg",
+      "Const85_kcm.svg",
+      "Const85_085.jpg"
+    ]
+  },
+  {
+    "constituencyId": "86",
+    "name": "MUVATTUPUZHA",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "N. Arun",
+        "party": "CPI",
+        "partyLogo": "Const86_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Mathew Kuzhalnadan",
+        "party": "INC",
+        "partyLogo": "Const86_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Sunny Kadoothazhe",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Noushad Kakkaden Randarkara",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Roy Arakkal",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Dr. MATHEW KUZHALNADAN",
+      "winnerTotalVotes": 64425,
+      "runnerUpName": "ELDHO ABRAHAM",
+      "runnerUpTotalVotes": 58264,
+      "margin": 6161,
+      "electors": 191222,
+      "turnout": 75.83,
+      "nota": 427
+    },
+    "imageFiles": [
+      "Const86_cpi.svg",
+      "Const86_086.jpg",
+      "Const86_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "87",
+    "name": "KOTHAMANGALAM",
+    "district": "Ernakulam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Antony John",
+        "party": "CPI(M)",
+        "partyLogo": "Const87_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Shibu Thekkumpuram",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Aji Narayanan",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "ANTONY JOHN",
+      "winnerTotalVotes": 64234,
+      "runnerUpName": "Shibu Thekkumpuram",
+      "runnerUpTotalVotes": 57629,
+      "margin": 6605,
+      "electors": 172763,
+      "turnout": 79.16,
+      "nota": 414
+    },
+    "imageFiles": [
+      "Const87_cpim.png",
+      "Const87_087.jpg"
+    ]
+  },
+  {
+    "constituencyId": "88",
+    "name": "DEVIKULAM (SC)",
+    "district": "Idukki",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "A. Raj",
+        "party": "CPI(M)",
+        "partyLogo": "Const88_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "F. Raja",
+        "party": "INC",
+        "partyLogo": "Const88_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "S. Rajendran",
+        "party": "BJP",
+        "partyLogo": "Const88_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. A. Raja",
+      "winnerTotalVotes": 59049,
+      "runnerUpName": "D. Kumar",
+      "runnerUpTotalVotes": 51201,
+      "margin": 7848,
+      "electors": 169381,
+      "turnout": 68.53,
+      "nota": 807
+    },
+    "imageFiles": [
+      "Const88_bjp.svg",
+      "Const88_inc.svg",
+      "Const88_cpim.png",
+      "Const88_088.jpg"
+    ]
+  },
+  {
+    "constituencyId": "89",
+    "name": "UDUMBANCHOLA",
+    "district": "Idukki",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. K. Jayachandran",
+        "party": "CPI(M)",
+        "partyLogo": "Const89_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Adv. Senapathi Venu",
+        "party": "INC",
+        "partyLogo": "Const89_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Sangeetha Viswanathan",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M. M. MANI",
+      "winnerTotalVotes": 77381,
+      "runnerUpName": "ADV. E.M. AUGUSTHY",
+      "runnerUpTotalVotes": 39076,
+      "margin": 38305,
+      "electors": 167459,
+      "turnout": 74.93,
+      "nota": 687
+    },
+    "imageFiles": [
+      "Const89_inc.svg",
+      "Const89_cpim.png",
+      "Const89_089.jpg"
+    ]
+  },
+  {
+    "constituencyId": "90",
+    "name": "THODUPUZHA",
+    "district": "Idukki",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Cyriac Chazhikadan",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Apu John Joseph",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Roy A. Varikkad",
+        "party": "TTP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Basil John",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Afsal M. B",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "P J JOSEPH",
+      "winnerTotalVotes": 67495,
+      "runnerUpName": "Prof. K I ANTONY",
+      "runnerUpTotalVotes": 47236,
+      "margin": 20259,
+      "electors": 191364,
+      "turnout": 72.76,
+      "nota": 674
+    },
+    "imageFiles": [
+      "Const90_kc.svg",
+      "Const90_kcm.svg",
+      "Const90_090.jpg"
+    ]
+  },
+  {
+    "constituencyId": "91",
+    "name": "IDUKKI",
+    "district": "Idukki",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Roshi Augustine",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Roy K. Paulose",
+        "party": "INC",
+        "partyLogo": "Const91_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Pradeesh Prabha",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "ROSHY AUGUSTINE",
+      "winnerTotalVotes": 62368,
+      "runnerUpName": "ADV. K FRANCIS GEORGE",
+      "runnerUpTotalVotes": 56795,
+      "margin": 5573,
+      "electors": 186503,
+      "turnout": 70.64,
+      "nota": 677
+    },
+    "imageFiles": [
+      "Const91_kcm.svg",
+      "Const91_091.jpg",
+      "Const91_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "92",
+    "name": "PEERUMADE",
+    "district": "Idukki",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Salim Kumar",
+        "party": "CPI",
+        "partyLogo": "Const92_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Adv. Syriac Thomas",
+        "party": "INC",
+        "partyLogo": "Const92_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "V. Ratheesh",
+        "party": "BJP",
+        "partyLogo": "Const92_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Joseph Jacob",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "VAZHOOR SOMAN",
+      "winnerTotalVotes": 60141,
+      "runnerUpName": "Adv.SYRIAC THOMAS",
+      "runnerUpTotalVotes": 58306,
+      "margin": 1835,
+      "electors": 174514,
+      "turnout": 73.06,
+      "nota": 401
+    },
+    "imageFiles": [
+      "Const92_inc.svg",
+      "Const92_bjp.svg",
+      "Const92_cpi.svg",
+      "Const92_092.jpg"
+    ]
+  },
+  {
+    "constituencyId": "93",
+    "name": "PALA",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Jose K. Mani",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Mani C. Kappan",
+        "party": "DCK",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Shone George",
+        "party": "BJP",
+        "partyLogo": "Const93_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Rony Jose Nedumpallil",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "MANI C KAPPEN",
+      "winnerTotalVotes": 69804,
+      "runnerUpName": "JOSE K. MANI",
+      "runnerUpTotalVotes": 54426,
+      "margin": 15378,
+      "electors": 185008,
+      "turnout": 75.26,
+      "nota": 604
+    },
+    "imageFiles": [
+      "Const93_kcm.svg",
+      "Const93_bjp.svg",
+      "Const93_093.jpg"
+    ]
+  },
+  {
+    "constituencyId": "94",
+    "name": "KADUTHURUTHY",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Nirmala Jimmy",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Mons Joseph",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Suresh Ettikunnel",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dominic Simon",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv. Mons Joseph",
+      "winnerTotalVotes": 59666,
+      "runnerUpName": "Stephen George",
+      "runnerUpTotalVotes": 55410,
+      "margin": 4256,
+      "electors": 187910,
+      "turnout": 70.48,
+      "nota": 731
+    },
+    "imageFiles": [
+      "Const94_094.jpg",
+      "Const94_kcm.svg",
+      "Const94_kc.svg"
+    ]
+  },
+  {
+    "constituencyId": "95",
+    "name": "VAIKOM (SC)",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. Pradeep",
+        "party": "CPI",
+        "partyLogo": "Const95_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. Binimon",
+        "party": "INC",
+        "partyLogo": "Const95_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. Ajith",
+        "party": "BJP",
+        "partyLogo": "Const95_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "C.K Asha",
+      "winnerTotalVotes": 71388,
+      "runnerUpName": "Dr.P.R Sona",
+      "runnerUpTotalVotes": 42266,
+      "margin": 29122,
+      "electors": 164791,
+      "turnout": 77.69,
+      "nota": 670
+    },
+    "imageFiles": [
+      "Const95_cpi.svg",
+      "Const95_095.jpg",
+      "Const95_bjp.svg",
+      "Const95_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "96",
+    "name": "ETTUMANOOR",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. N. Vasavan",
+        "party": "CPI(M)",
+        "partyLogo": "Const96_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Nattakam Suresh",
+        "party": "INC",
+        "partyLogo": "Const96_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Athira D. Nair",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "V N Vasavan",
+      "winnerTotalVotes": 58289,
+      "runnerUpName": "Adv. Prince Lukose",
+      "runnerUpTotalVotes": 43986,
+      "margin": 14303,
+      "electors": 168266,
+      "turnout": 75.45,
+      "nota": 780
+    },
+    "imageFiles": [
+      "Const96_096.jpg",
+      "Const96_cpim.png",
+      "Const96_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "97",
+    "name": "KOTTAYAM",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Anilkumar",
+        "party": "CPI(M)",
+        "partyLogo": "Const97_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Thiruvanchoor Radhakrishnan",
+        "party": "INC",
+        "partyLogo": "Const97_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. Anilkumar",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Dr. Selin Philip",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Johnson Kandachira",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "THIRUVANCHOOR RADHAKRISHNAN",
+      "winnerTotalVotes": 65401,
+      "runnerUpName": "Adv.K.ANILKUMAR",
+      "runnerUpTotalVotes": 46658,
+      "margin": 18743,
+      "electors": 165404,
+      "turnout": 74.48,
+      "nota": 473
+    },
+    "imageFiles": [
+      "Const97_cpim.png",
+      "Const97_097.jpg",
+      "Const97_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "98",
+    "name": "PUTHUPPALLY",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. M. Radhakrishnan",
+        "party": "CPI(M)",
+        "partyLogo": "Const98_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Chandy Oommen",
+        "party": "INC",
+        "partyLogo": "Const98_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Raveendranath Vakathanam",
+        "party": "BJP",
+        "partyLogo": "Const98_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "OOMMEN CHANDY",
+      "winnerTotalVotes": 63372,
+      "runnerUpName": "JAICK C THOMAS",
+      "runnerUpTotalVotes": 54328,
+      "margin": 9044,
+      "electors": 176103,
+      "turnout": 75.35,
+      "nota": 497
+    },
+    "imageFiles": [
+      "Const98_inc.svg",
+      "Const98_cpim.png",
+      "Const98_bjp.svg",
+      "Const98_098.jpg"
+    ]
+  },
+  {
+    "constituencyId": "99",
+    "name": "CHANGANASSERY",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Job Maichil",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Vinu Job",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "B. Radhakrishna Menon",
+        "party": "BJP",
+        "partyLogo": "Const99_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Prof. (Dr.) Saju Kannanthara",
+        "party": "AAP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Althaf Hassan",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. Job Maichil",
+      "winnerTotalVotes": 55425,
+      "runnerUpName": "V. J. Laly",
+      "runnerUpTotalVotes": 49366,
+      "margin": 6059,
+      "electors": 171743,
+      "turnout": 71.98,
+      "nota": 434
+    },
+    "imageFiles": [
+      "Const99_bjp.svg",
+      "Const99_099.jpg",
+      "Const99_kcm.svg"
+    ]
+  },
+  {
+    "constituencyId": "100",
+    "name": "KANJIRAPPALLY",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "N. Jayaraj",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Prof. Rony K. Baby",
+        "party": "INC",
+        "partyLogo": "Const100_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "George Kurian",
+        "party": "BJP",
+        "partyLogo": "Const100_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Roshni Shinu",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Dr.N.JAYARAJ",
+      "winnerTotalVotes": 60299,
+      "runnerUpName": "JOSEPH VAZHACKAN",
+      "runnerUpTotalVotes": 46596,
+      "margin": 13703,
+      "electors": 186904,
+      "turnout": 73.96,
+      "nota": 624
+    },
+    "imageFiles": [
+      "Const100_kcm.svg",
+      "Const100_100.jpg",
+      "Const100_bjp.svg",
+      "Const100_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "101",
+    "name": "POONJAR",
+    "district": "Kottayam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Sebastian Kulathunkal",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sebastian M J",
+        "party": "INC",
+        "partyLogo": "Const101_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. C. George",
+        "party": "BJP",
+        "partyLogo": "Const101_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. Sebastian Kulathunkal",
+      "winnerTotalVotes": 58668,
+      "runnerUpName": "P.C.George Plathottam",
+      "runnerUpTotalVotes": 41851,
+      "margin": 16817,
+      "electors": 189258,
+      "turnout": 74.21,
+      "nota": 345
+    },
+    "imageFiles": [
+      "Const101_kcm.svg",
+      "Const101_bjp.svg",
+      "Const101_inc.svg",
+      "Const101_101.jpg"
+    ]
+  },
+  {
+    "constituencyId": "102",
+    "name": "AROOR",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Daleema",
+        "party": "CPI(M)",
+        "partyLogo": "Const102_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Shanimol Usman",
+        "party": "INC",
+        "partyLogo": "Const102_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. S. Jyothis",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "DALEEMA",
+      "winnerTotalVotes": 75617,
+      "runnerUpName": "Adv. SHANIMOL OSMAN",
+      "runnerUpTotalVotes": 68604,
+      "margin": 7013,
+      "electors": 200211,
+      "turnout": 82.58,
+      "nota": 846
+    },
+    "imageFiles": [
+      "Const102_102.jpg",
+      "Const102_cpim.png",
+      "Const102_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "103",
+    "name": "CHERTHALA",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. Prasad",
+        "party": "CPI",
+        "partyLogo": "Const103_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. R. Rajendra Prasad",
+        "party": "INC",
+        "partyLogo": "Const103_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. Anandaraj T. P",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Tomy Elacheri",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P PRASAD",
+      "winnerTotalVotes": 83702,
+      "runnerUpName": "ADV.S SARATH",
+      "runnerUpTotalVotes": 77554,
+      "margin": 6148,
+      "electors": 213687,
+      "turnout": 83.8,
+      "nota": 602
+    },
+    "imageFiles": [
+      "Const103_cpi.svg",
+      "Const103_inc.svg",
+      "Const103_103.jpg"
+    ]
+  },
+  {
+    "constituencyId": "104",
+    "name": "ALAPPUZHA",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "P. P. Chitharanjan",
+        "party": "CPI(M)",
+        "partyLogo": "Const104_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "A. D. Thomas",
+        "party": "INC",
+        "partyLogo": "Const104_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "M.J. Job",
+        "party": "BJP",
+        "partyLogo": "Const104_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P.P Chitharanjan",
+      "winnerTotalVotes": 73412,
+      "runnerUpName": "Dr.K.S Manoj",
+      "runnerUpTotalVotes": 61768,
+      "margin": 11644,
+      "electors": 202382,
+      "turnout": 78.43,
+      "nota": 1089
+    },
+    "imageFiles": [
+      "Const104_inc.svg",
+      "Const104_bjp.svg",
+      "Const104_104.jpg",
+      "Const104_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "105",
+    "name": "AMBALAPUZHA",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "H. Salam",
+        "party": "CPI(M)",
+        "partyLogo": "Const105_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "G. Sudhakaran",
+        "party": "Independent (INC Support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Arun Anirudhan",
+        "party": "BJP",
+        "partyLogo": "Const105_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "H.Salam",
+      "winnerTotalVotes": 61365,
+      "runnerUpName": "Adv.M.Liju",
+      "runnerUpTotalVotes": 50240,
+      "margin": 11125,
+      "electors": 179348,
+      "turnout": 76.74,
+      "nota": 591
+    },
+    "imageFiles": [
+      "Const105_cpim.png",
+      "Const105_bjp.svg",
+      "Const105_105.jpg"
+    ]
+  },
+  {
+    "constituencyId": "106",
+    "name": "KUTTANAD",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Thomas K. Thomas",
+        "party": "NCP(SP)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Reji Cheriyan",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Santhosh Santhy",
+        "party": "BDJS",
+        "partyLogo": null
+      },
+      {
+        "alliance": "OTH",
+        "name": "Joseph Mathew",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "THOMAS K THOMAS",
+      "winnerTotalVotes": 57379,
+      "runnerUpName": "Adv. JACOB ABRAHAM",
+      "runnerUpTotalVotes": 51863,
+      "margin": 5516,
+      "electors": 168723,
+      "turnout": 74.86,
+      "nota": 523
+    },
+    "imageFiles": [
+      "Const106_ncp.png",
+      "Const106_106.jpg"
+    ]
+  },
+  {
+    "constituencyId": "107",
+    "name": "HARIPAD",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "T. T. Jismon",
+        "party": "CPI",
+        "partyLogo": "Const107_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Ramesh Chennithala",
+        "party": "INC",
+        "partyLogo": "Const107_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Sandeep Vachaspati",
+        "party": "BJP",
+        "partyLogo": "Const107_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "RAMESH CHENNITHALA",
+      "winnerTotalVotes": 72768,
+      "runnerUpName": "Adv. R. SAJILAL",
+      "runnerUpTotalVotes": 59102,
+      "margin": 13666,
+      "electors": 197598,
+      "turnout": 76.6,
+      "nota": 536
+    },
+    "imageFiles": [
+      "Const107_107.jpg",
+      "Const107_bjp.svg",
+      "Const107_cpi.svg",
+      "Const107_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "108",
+    "name": "KAYAMKULAM",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "U. Prathibha",
+        "party": "CPI(M)",
+        "partyLogo": "Const108_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "M. Liju",
+        "party": "INC",
+        "partyLogo": "Const108_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Thambi Mettuthara",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. U. Prathibha",
+      "winnerTotalVotes": 77348,
+      "runnerUpName": "Aritha Babu",
+      "runnerUpTotalVotes": 71050,
+      "margin": 6298,
+      "electors": 214839,
+      "turnout": 75.41,
+      "nota": 420
+    },
+    "imageFiles": [
+      "Const108_cpim.png",
+      "Const108_inc.svg",
+      "Const108_108.jpg"
+    ]
+  },
+  {
+    "constituencyId": "109",
+    "name": "MAVELIKARA (SC)",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. S. Arun Kumar",
+        "party": "CPI(M)",
+        "partyLogo": "Const109_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Muthara Raj",
+        "party": "INC",
+        "partyLogo": "Const109_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Ajimon",
+        "party": "BJP",
+        "partyLogo": "Const109_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M S ARUN KUMAR",
+      "winnerTotalVotes": 71743,
+      "runnerUpName": "K K SHAJU",
+      "runnerUpTotalVotes": 47026,
+      "margin": 24717,
+      "electors": 206012,
+      "turnout": 73.28,
+      "nota": 519
+    },
+    "imageFiles": [
+      "Const109_109.jpg",
+      "Const109_inc.svg",
+      "Const109_bjp.svg",
+      "Const109_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "110",
+    "name": "CHENGANNUR",
+    "district": "Alappuzha",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Saji Cherian",
+        "party": "CPI(M)",
+        "partyLogo": "Const110_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Eby Kuriakose",
+        "party": "INC",
+        "partyLogo": "Const110_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "M. V. Gopakumar",
+        "party": "BJP",
+        "partyLogo": "Const110_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "SAJI CHERIAN",
+      "winnerTotalVotes": 71502,
+      "runnerUpName": "M. MURALI",
+      "runnerUpTotalVotes": 39409,
+      "margin": 32093,
+      "electors": 207980,
+      "turnout": 70.76,
+      "nota": 491
+    },
+    "imageFiles": [
+      "Const110_bjp.svg",
+      "Const110_110.jpg",
+      "Const110_inc.svg",
+      "Const110_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "111",
+    "name": "THIRUVALLA",
+    "district": "Pathanamthitta",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Mathew T. Thomas",
+        "party": "Indian Socialist Janata Dal",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Varghese Mammen",
+        "party": "KEC",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Anoop Antony",
+        "party": "BJP",
+        "partyLogo": "Const111_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. MATHEW T THOMAS",
+      "winnerTotalVotes": 62178,
+      "runnerUpName": "KUNJU KOSHY PAUL",
+      "runnerUpTotalVotes": 50757,
+      "margin": 11421,
+      "electors": 212741,
+      "turnout": 65.73,
+      "nota": 608
+    },
+    "imageFiles": [
+      "Const111_111.jpg",
+      "Const111_bjp.svg",
+      "Const111_jds.svg"
+    ]
+  },
+  {
+    "constituencyId": "112",
+    "name": "RANNI",
+    "district": "Pathanamthitta",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Pramod Narayan",
+        "party": "Kerala Congress (M)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Pazhakulam Madhu",
+        "party": "INC",
+        "partyLogo": "Const112_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Thomas K. Samuel",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. Pramod Narayan",
+      "winnerTotalVotes": 52669,
+      "runnerUpName": "Rinku Cherian",
+      "runnerUpTotalVotes": 51384,
+      "margin": 1285,
+      "electors": 194086,
+      "turnout": 65.95,
+      "nota": 431
+    },
+    "imageFiles": [
+      "Const112_kcm.svg",
+      "Const112_inc.svg",
+      "Const112_112.jpg"
+    ]
+  },
+  {
+    "constituencyId": "113",
+    "name": "ARANMULA",
+    "district": "Pathanamthitta",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Veena George",
+        "party": "CPI(M)",
+        "partyLogo": "Const113_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Abin Varkey",
+        "party": "INC",
+        "partyLogo": "Const113_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Kummanam Rajasekharan",
+        "party": "BJP",
+        "partyLogo": "Const113_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "VEENA GEORGE",
+      "winnerTotalVotes": 74950,
+      "runnerUpName": "Adv. K. SIVADASAN NAIR",
+      "runnerUpTotalVotes": 55947,
+      "margin": 19003,
+      "electors": 238077,
+      "turnout": 68.13,
+      "nota": 575
+    },
+    "imageFiles": [
+      "Const113_113.jpg",
+      "Const113_bjp.svg",
+      "Const113_inc.svg",
+      "Const113_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "114",
+    "name": "KONNI",
+    "district": "Pathanamthitta",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. U. Jenish Kumar",
+        "party": "CPI(M)",
+        "partyLogo": "Const114_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Satheesh Kochuparambil",
+        "party": "INC",
+        "partyLogo": "Const114_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "T. P. Sundareshan",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. K.U JENISH KUMAR",
+      "winnerTotalVotes": 62318,
+      "runnerUpName": "ROBIN PETER",
+      "runnerUpTotalVotes": 53810,
+      "margin": 8508,
+      "electors": 203737,
+      "turnout": 73.83,
+      "nota": 372
+    },
+    "imageFiles": [
+      "Const114_inc.svg",
+      "Const114_114.jpg",
+      "Const114_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "115",
+    "name": "ADOOR (SC)",
+    "district": "Pathanamthitta",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Priji Sasidharan",
+        "party": "CPI",
+        "partyLogo": "Const115_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Santhakumar",
+        "party": "INC",
+        "partyLogo": "Const115_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Pandalam Prathapan",
+        "party": "BJP",
+        "partyLogo": "Const115_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Chittayam Gopakumar",
+      "winnerTotalVotes": 66569,
+      "runnerUpName": "M. G. Kannan",
+      "runnerUpTotalVotes": 63650,
+      "margin": 2919,
+      "electors": 209397,
+      "turnout": 74.4,
+      "nota": 594
+    },
+    "imageFiles": [
+      "Const115_inc.svg",
+      "Const115_bjp.svg",
+      "Const115_cpi.svg",
+      "Const115_115.jpg"
+    ]
+  },
+  {
+    "constituencyId": "116",
+    "name": "KARUNAGAPPALLY",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. S. Thara",
+        "party": "CPI",
+        "partyLogo": "Const116_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "C. R. Mahesh",
+        "party": "INC",
+        "partyLogo": "Const116_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "V. S. Jithin Dev",
+        "party": "BJP",
+        "partyLogo": "Const116_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "C. R Mahesh",
+      "winnerTotalVotes": 94225,
+      "runnerUpName": "R. Ramachandran",
+      "runnerUpTotalVotes": 65017,
+      "margin": 29208,
+      "electors": 215293,
+      "turnout": 80.85,
+      "nota": 450
+    },
+    "imageFiles": [
+      "Const116_cpi.svg",
+      "Const116_inc.svg",
+      "Const116_bjp.svg",
+      "Const116_116.jpg"
+    ]
+  },
+  {
+    "constituencyId": "117",
+    "name": "CHAVARA",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Sujith Vijayanpillai",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Shibu Baby John",
+        "party": "RSP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "K. R. Rajesh",
+        "party": "BJP",
+        "partyLogo": "Const117_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Dr.SUJITH VIJAYANPILLAI",
+      "winnerTotalVotes": 63282,
+      "runnerUpName": "SHIBU BABY JOHN",
+      "runnerUpTotalVotes": 62186,
+      "margin": 1096,
+      "electors": 182312,
+      "turnout": 78.5,
+      "nota": 701
+    },
+    "imageFiles": [
+      "Const117_bjp.svg",
+      "Const117_117.jpg"
+    ]
+  },
+  {
+    "constituencyId": "118",
+    "name": "KUNNATHUR (SC)",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Kovoor Kunjumon",
+        "party": "RSP(L)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Ullas Kovoor",
+        "party": "RSP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Raji Prasad",
+        "party": "BJP",
+        "partyLogo": "Const118_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "KOVOOR KUNJUMON",
+      "winnerTotalVotes": 69436,
+      "runnerUpName": "ULLAS KOVOOR",
+      "runnerUpTotalVotes": 66646,
+      "margin": 2790,
+      "electors": 207835,
+      "turnout": 77.59,
+      "nota": 922
+    },
+    "imageFiles": [
+      "Const118_118.jpg",
+      "Const118_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "119",
+    "name": "KOTTARAKKARA",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. N. Balagopal",
+        "party": "CPI(M)",
+        "partyLogo": "Const119_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. Aisha Potty",
+        "party": "INC",
+        "partyLogo": "Const119_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "R. Reshmi",
+        "party": "BJP",
+        "partyLogo": "Const119_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Mamachan D",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K N BALAGOPAL",
+      "winnerTotalVotes": 68770,
+      "runnerUpName": "R RESMI",
+      "runnerUpTotalVotes": 57956,
+      "margin": 10814,
+      "electors": 201909,
+      "turnout": 74.6,
+      "nota": 574
+    },
+    "imageFiles": [
+      "Const119_bjp.svg",
+      "Const119_cpim.png",
+      "Const119_119.jpg",
+      "Const119_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "120",
+    "name": "PATHANAPURAM",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. B. Ganesh Kumar",
+        "party": "Kerala Congress (B)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "Jyothikumar chamakkala",
+        "party": "INC",
+        "partyLogo": "Const120_inc.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Anil Pilla",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K.B. GANESH KUMAR",
+      "winnerTotalVotes": 67276,
+      "runnerUpName": "JYOTHIKUMAR CHAMAKKALA",
+      "runnerUpTotalVotes": 52940,
+      "margin": 14336,
+      "electors": 185116,
+      "turnout": 74.18,
+      "nota": 474
+    },
+    "imageFiles": [
+      "Const120_inc.svg",
+      "Const120_kcb.svg",
+      "Const120_120.jpg"
+    ]
+  },
+  {
+    "constituencyId": "121",
+    "name": "PUNALUR",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "C. Ajaya Prasad",
+        "party": "CPI",
+        "partyLogo": "Const121_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Noushad Yusuf",
+        "party": "IUML",
+        "partyLogo": "Const121_iuml.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "B. Raghunathan Pillai",
+        "party": "TTP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "P S SUPAL",
+      "winnerTotalVotes": 80428,
+      "runnerUpName": "ABDURAHIMAN RANDATHANI",
+      "runnerUpTotalVotes": 43371,
+      "margin": 37057,
+      "electors": 206496,
+      "turnout": 71.03,
+      "nota": 688
+    },
+    "imageFiles": [
+      "Const121_cpi.svg",
+      "Const121_iuml.svg",
+      "Const121_121.jpg"
+    ]
+  },
+  {
+    "constituencyId": "122",
+    "name": "CHADAYAMANGALAM",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "J. Chinjurani",
+        "party": "CPI",
+        "partyLogo": "Const122_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "M. M. Naseer",
+        "party": "INC",
+        "partyLogo": "Const122_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "R. S. Arun Raj",
+        "party": "BJP",
+        "partyLogo": "Const122_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Sharafath Mallam",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "J.Chinchurani",
+      "winnerTotalVotes": 67252,
+      "runnerUpName": "M.M.Naseer",
+      "runnerUpTotalVotes": 53574,
+      "margin": 13678,
+      "electors": 201643,
+      "turnout": 73.23,
+      "nota": 685
+    },
+    "imageFiles": [
+      "Const122_cpi.svg",
+      "Const122_inc.svg",
+      "Const122_122.jpg",
+      "Const122_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "123",
+    "name": "KUNDARA",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "S. L. Sajikumar",
+        "party": "CPI(M)",
+        "partyLogo": "Const123_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "P. C. Vishnunadh",
+        "party": "INC",
+        "partyLogo": "Const123_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Robin Radhakrishnan (Robin RB)",
+        "party": "BJP",
+        "partyLogo": "Const123_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "P.C.Vishnunadh",
+      "winnerTotalVotes": 76405,
+      "runnerUpName": "J.Mercykutty Amma",
+      "runnerUpTotalVotes": 71882,
+      "margin": 4523,
+      "electors": 206767,
+      "turnout": 75.94,
+      "nota": 710
+    },
+    "imageFiles": [
+      "Const123_cpim.png",
+      "Const123_bjp.svg",
+      "Const123_inc.svg",
+      "Const123_123.jpg"
+    ]
+  },
+  {
+    "constituencyId": "124",
+    "name": "KOLLAM",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "S. Jayamohan",
+        "party": "CPI(M)",
+        "partyLogo": "Const124_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Bindhu Krishna",
+        "party": "INC",
+        "partyLogo": "Const124_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "N. Prathap Kumar",
+        "party": "BJP",
+        "partyLogo": "Const124_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Adv. Sinu L R",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M Mukesh",
+      "winnerTotalVotes": 58524,
+      "runnerUpName": "Adv. BINDHU KRISHNA",
+      "runnerUpTotalVotes": 56452,
+      "margin": 2072,
+      "electors": 176553,
+      "turnout": 74.05,
+      "nota": 750
+    },
+    "imageFiles": [
+      "Const124_bjp.svg",
+      "Const124_inc.svg",
+      "Const124_124.jpg",
+      "Const124_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "125",
+    "name": "ERAVIPURAM",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "M. Noushad",
+        "party": "CPI(M)",
+        "partyLogo": "Const125_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Vishnu Mohan",
+        "party": "RSP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Saji D. Anand",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "M. Noushad",
+      "winnerTotalVotes": 71573,
+      "runnerUpName": "Babudivakaran",
+      "runnerUpTotalVotes": 43452,
+      "margin": 28121,
+      "electors": 176076,
+      "turnout": 72.38,
+      "nota": 931
+    },
+    "imageFiles": [
+      "Const125_cpim.png",
+      "Const125_125.jpg"
+    ]
+  },
+  {
+    "constituencyId": "126",
+    "name": "CHATHANNUR",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "R. Rajendran",
+        "party": "CPI",
+        "partyLogo": "Const126_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sooraj Ravi",
+        "party": "INC",
+        "partyLogo": "Const126_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "B. B. Gopakumar",
+        "party": "BJP",
+        "partyLogo": "Const126_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Arun A",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "G.S. JAYALAL",
+      "winnerTotalVotes": 59296,
+      "runnerUpName": "B. B. GOPAKUMAR",
+      "runnerUpTotalVotes": 42090,
+      "margin": 17206,
+      "electors": 185271,
+      "turnout": 74.39,
+      "nota": 642
+    },
+    "imageFiles": [
+      "Const126_126.jpg",
+      "Const126_inc.svg",
+      "Const126_bjp.svg",
+      "Const126_cpi.svg"
+    ]
+  },
+  {
+    "constituencyId": "127",
+    "name": "VARKALA",
+    "district": "Kollam",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. Joy",
+        "party": "CPI(M)",
+        "partyLogo": "Const127_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Varkala Kahar",
+        "party": "INC",
+        "partyLogo": "Const127_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Adv. Sreenivasan Venugopal",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. V Joy",
+      "winnerTotalVotes": 68816,
+      "runnerUpName": "Adv. BRM Shafeer",
+      "runnerUpTotalVotes": 50995,
+      "margin": 17821,
+      "electors": 187646,
+      "turnout": 72.28,
+      "nota": 815
+    },
+    "imageFiles": [
+      "Const127_cpim.png",
+      "Const127_inc.svg",
+      "Const127_127.jpg"
+    ]
+  },
+  {
+    "constituencyId": "128",
+    "name": "ATTINGAL (SC)",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "O. S. Ambika",
+        "party": "CPI(M)",
+        "partyLogo": "Const128_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Santhosh Bhadran",
+        "party": "RSP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. Sudheer",
+        "party": "BJP",
+        "partyLogo": "Const128_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Jayarajan M",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "O S AMBIKA",
+      "winnerTotalVotes": 69898,
+      "runnerUpName": "ADV. P SUDHEER",
+      "runnerUpTotalVotes": 38262,
+      "margin": 31636,
+      "electors": 202550,
+      "turnout": 72.93,
+      "nota": 1071
+    },
+    "imageFiles": [
+      "Const128_128.jpg",
+      "Const128_bjp.svg",
+      "Const128_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "129",
+    "name": "CHIRAYINKEEZHU (SC)",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Manoj B Edamana",
+        "party": "CPI",
+        "partyLogo": "Const129_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Ramya Haridas",
+        "party": "INC",
+        "partyLogo": "Const129_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "B. S. Anoop",
+        "party": "BJP",
+        "partyLogo": "Const129_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "V. Sasi",
+      "winnerTotalVotes": 62634,
+      "runnerUpName": "B. S. Anoop",
+      "runnerUpTotalVotes": 48617,
+      "margin": 14017,
+      "electors": 199492,
+      "turnout": 73.26,
+      "nota": 758
+    },
+    "imageFiles": [
+      "Const129_cpi.svg",
+      "Const129_bjp.svg",
+      "Const129_inc.svg",
+      "Const129_129.jpg"
+    ]
+  },
+  {
+    "constituencyId": "130",
+    "name": "NEDUMANGAD",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "G. R. Anil",
+        "party": "CPI",
+        "partyLogo": "Const130_cpi.svg"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Meenankal Kumar",
+        "party": "INC",
+        "partyLogo": "Const130_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Yuvaraj Gokul",
+        "party": "BJP",
+        "partyLogo": "Const130_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Siyad Kandala",
+        "party": "SDPI",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. G. R. ANIL",
+      "winnerTotalVotes": 72742,
+      "runnerUpName": "P. S. PRASANTH",
+      "runnerUpTotalVotes": 49433,
+      "margin": 23309,
+      "electors": 208123,
+      "turnout": 73.8,
+      "nota": 917
+    },
+    "imageFiles": [
+      "Const130_inc.svg",
+      "Const130_130.jpg",
+      "Const130_bjp.svg",
+      "Const130_cpi.svg"
+    ]
+  },
+  {
+    "constituencyId": "131",
+    "name": "VAMANAPURAM",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "D. K. Murali",
+        "party": "CPI(M)",
+        "partyLogo": "Const131_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Sudheer Sha Palode",
+        "party": "INC",
+        "partyLogo": "Const131_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Venu Karanavar",
+        "party": "BDJS",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. D. K. Murali",
+      "winnerTotalVotes": 73137,
+      "runnerUpName": "Anad Jayan",
+      "runnerUpTotalVotes": 62895,
+      "margin": 10242,
+      "electors": 200798,
+      "turnout": 73.14,
+      "nota": 716
+    },
+    "imageFiles": [
+      "Const131_cpim.png",
+      "Const131_inc.svg",
+      "Const131_131.jpg"
+    ]
+  },
+  {
+    "constituencyId": "132",
+    "name": "KAZHAKKOOTTAM",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Kadakampally Surendran",
+        "party": "CPI(M)",
+        "partyLogo": "Const132_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "T. Sarath Chandra Prasad",
+        "party": "INC",
+        "partyLogo": "Const132_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "V. Muraleedharan",
+        "party": "BJP",
+        "partyLogo": "Const132_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Kadakampally Surendran",
+      "winnerTotalVotes": 63690,
+      "runnerUpName": "Sobha Surendran",
+      "runnerUpTotalVotes": 40193,
+      "margin": 23497,
+      "electors": 194752,
+      "turnout": 71.37,
+      "nota": 668
+    },
+    "imageFiles": [
+      "Const132_bjp.svg",
+      "Const132_132.jpg",
+      "Const132_cpim.png",
+      "Const132_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "133",
+    "name": "VATTIYOORKAVU",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. K. Prasanth",
+        "party": "CPI(M)",
+        "partyLogo": "Const133_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "K. Muraleedharan",
+        "party": "INC",
+        "partyLogo": "Const133_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "R. Sreelekha",
+        "party": "BJP",
+        "partyLogo": "Const133_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv.V.K.PRASANTH",
+      "winnerTotalVotes": 61111,
+      "runnerUpName": "Adv.V.V.RAJESH",
+      "runnerUpTotalVotes": 39596,
+      "margin": 21515,
+      "electors": 208543,
+      "turnout": 66.19,
+      "nota": 854
+    },
+    "imageFiles": [
+      "Const133_inc.svg",
+      "Const133_cpim.png",
+      "Const133_bjp.svg",
+      "Const133_133.jpg"
+    ]
+  },
+  {
+    "constituencyId": "134",
+    "name": "THIRUVANANTHAPURAM",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Sudheer Karamana",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "C. P. John",
+        "party": "CMP",
+        "partyLogo": null
+      },
+      {
+        "alliance": "NDA",
+        "name": "Karamana Jayan",
+        "party": "BJP",
+        "partyLogo": "Const134_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Samin Sathyadas",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv.ANTONY RAJU",
+      "winnerTotalVotes": 48748,
+      "runnerUpName": "V .S .Sivakumar",
+      "runnerUpTotalVotes": 41659,
+      "margin": 7089,
+      "electors": 203584,
+      "turnout": 63.03,
+      "nota": 1054
+    },
+    "imageFiles": [
+      "Const134_134.jpg",
+      "Const134_jkc.svg",
+      "Const134_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "135",
+    "name": "NEMOM",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "V. Sivankutty",
+        "party": "CPI(M)",
+        "partyLogo": "Const135_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "KS Sabarinathan",
+        "party": "INC",
+        "partyLogo": "Const135_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Rajeev Chandrasekhar",
+        "party": "BJP",
+        "partyLogo": "Const135_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Vinu K",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "V.Sivankutty",
+      "winnerTotalVotes": 55837,
+      "runnerUpName": "Kummanam Rajasekharan",
+      "runnerUpTotalVotes": 51888,
+      "margin": 3949,
+      "electors": 204718,
+      "turnout": 71.49,
+      "nota": 756
+    },
+    "imageFiles": [
+      "Const135_cpim.png",
+      "Const135_bjp.svg",
+      "Const135_135.jpg",
+      "Const135_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "136",
+    "name": "ARUVIKKARA",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "G. Stephen",
+        "party": "CPI(M)",
+        "partyLogo": "Const136_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "V. S. Sivakumar",
+        "party": "INC",
+        "partyLogo": "Const136_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Vivek Gopan",
+        "party": "BJP",
+        "partyLogo": "Const136_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv. G. Steephen",
+      "winnerTotalVotes": 66776,
+      "runnerUpName": "K. S. Sabarinadhan",
+      "runnerUpTotalVotes": 61730,
+      "margin": 5046,
+      "electors": 193873,
+      "turnout": 75.39,
+      "nota": 900
+    },
+    "imageFiles": [
+      "Const136_136.jpg",
+      "Const136_bjp.svg",
+      "Const136_inc.svg",
+      "Const136_cpim.png"
+    ]
+  },
+  {
+    "constituencyId": "137",
+    "name": "PARASSALA",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "C. K. Hareendran",
+        "party": "CPI(M)",
+        "partyLogo": "Const137_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "Neyyattinkara Sanal",
+        "party": "INC",
+        "partyLogo": "Const137_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "Gireesh Neyyar",
+        "party": "BJP",
+        "partyLogo": "Const137_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Deepumon N",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "C.K.HAREENDRAN",
+      "winnerTotalVotes": 78548,
+      "runnerUpName": "AN SAJITHA RESSAL.R.K",
+      "runnerUpTotalVotes": 52720,
+      "margin": 25828,
+      "electors": 220246,
+      "turnout": 74.24,
+      "nota": 630
+    },
+    "imageFiles": [
+      "Const137_inc.svg",
+      "Const137_137.jpg",
+      "Const137_cpim.png",
+      "Const137_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "138",
+    "name": "KATTAKKADA",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "I. B. Satheesh",
+        "party": "CPI(M)",
+        "partyLogo": "Const138_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "M. R. Baiju",
+        "party": "INC",
+        "partyLogo": "Const138_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "P. K. Krishnadas",
+        "party": "BJP",
+        "partyLogo": "Const138_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Sandeep Kumar",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "Adv I B SATHEESH",
+      "winnerTotalVotes": 66293,
+      "runnerUpName": "MALAYINKEEZHU VENUGOPAL",
+      "runnerUpTotalVotes": 43062,
+      "margin": 23231,
+      "electors": 196792,
+      "turnout": 74.34,
+      "nota": 699
+    },
+    "imageFiles": [
+      "Const138_138.jpg",
+      "Const138_cpim.png",
+      "Const138_bjp.svg",
+      "Const138_inc.svg"
+    ]
+  },
+  {
+    "constituencyId": "139",
+    "name": "KOVALAM",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "Bhagat Rufus",
+        "party": "Independent (CPI(M) support)",
+        "partyLogo": null
+      },
+      {
+        "alliance": "UDF",
+        "name": "M. Vincent",
+        "party": "INC",
+        "partyLogo": "Const139_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "T. N. Suresh",
+        "party": "BJP",
+        "partyLogo": "Const139_bjp.svg"
+      },
+      {
+        "alliance": "OTH",
+        "name": "Manoj S.P",
+        "party": "AAP",
+        "partyLogo": null
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "UDF",
+      "winnerName": "Adv. M. VINCENT",
+      "winnerTotalVotes": 74868,
+      "runnerUpName": "NEELALOHITHADASAN NADAR",
+      "runnerUpTotalVotes": 63306,
+      "margin": 11562,
+      "electors": 219341,
+      "turnout": 72.81,
+      "nota": 773
+    },
+    "imageFiles": [
+      "Const139_139.jpg",
+      "Const139_inc.svg",
+      "Const139_bjp.svg"
+    ]
+  },
+  {
+    "constituencyId": "140",
+    "name": "NEYYATTINKARA",
+    "district": "Thiruvananthapuram",
+    "candidates": [
+      {
+        "alliance": "LDF",
+        "name": "K. Ansalan",
+        "party": "CPI(M)",
+        "partyLogo": "Const140_cpim.png"
+      },
+      {
+        "alliance": "UDF",
+        "name": "N. Sakthan",
+        "party": "INC",
+        "partyLogo": "Const140_inc.svg"
+      },
+      {
+        "alliance": "NDA",
+        "name": "S. Rajasekharan Nair",
+        "party": "BJP",
+        "partyLogo": "Const140_bjp.svg"
+      }
+    ],
+    "historical2021": {
+      "winnerFront": "LDF",
+      "winnerName": "K. ANSALAN",
+      "winnerTotalVotes": 65497,
+      "runnerUpName": "SELVARAJ. R",
+      "runnerUpTotalVotes": 51235,
+      "margin": 14262,
+      "electors": 187559,
+      "turnout": 74.7,
+      "nota": 907
+    },
+    "imageFiles": [
+      "Const140_cpim.png",
+      "Const140_bjp.svg",
+      "Const140_140.jpg",
+      "Const140_inc.svg"
+    ]
+  }
+]

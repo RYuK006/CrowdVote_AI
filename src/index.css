@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --font-inter: "Inter", "sans-serif";
+  --font-roboto: "Roboto", "sans-serif";
+  --color-primary: #10b981; /* Emerald 500 */
+  --color-secondary: #050505; /* Black Background */
+  --color-accent: #f59e0b; /* Amber/Gold */
+  --color-background: #050505;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+  --radius-2xl: 3rem;
+}
+
+@layer base {
+  body {
+    @apply font-inter bg-[#050505] text-white antialiased selection:bg-emerald-500 selection:text-black;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-black tracking-tighter;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-emerald-600 text-black font-black py-4 px-8 rounded-2xl transition-all hover:bg-emerald-500 active:scale-95 shadow-2xl shadow-emerald-600/20 uppercase tracking-widest text-xs;
+  }
+  
+  .btn-secondary {
+    @apply bg-white/5 border border-white/10 text-white font-black py-4 px-8 rounded-2xl transition-all hover:bg-white/10 active:scale-95 uppercase tracking-widest text-xs;
+  }
+  
+  .card {
+    @apply bg-[#0A0A0A] rounded-[40px] shadow-2xl border border-white/5 p-10 hover:border-emerald-500/30 transition-all;
+  }
+  
+  .glass {
+    @apply bg-[#0A0A0A]/60 backdrop-blur-xl border border-white/10 shadow-2xl;
+  }
+
+  .input-field {
+    @apply w-full p-5 bg-[#050505] border border-white/10 rounded-2xl focus:border-emerald-500/50 transition-all outline-none text-emerald-500 placeholder:text-slate-800 font-bold;
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-white via-emerald-500 to-emerald-600;
+  }
+}
+
+/* Custom Scrollbar for Dark Mode */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-[#050505];
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-emerald-950/20 rounded-full hover:bg-emerald-500/20 transition-all;
+}
+
+/* Selection Highlight */
+::selection {
+  background: #10b981;
+  color: #000;
+}

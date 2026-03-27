@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 1,
+    "name": "MANJESHWAR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "2",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 2,
+    "name": "KASARAGOD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "1",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 3,
+    "name": "UDMA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "2",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 4,
+    "name": "KANHANGAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "3",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 5,
+    "name": "TRIKARIPUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "4",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 6,
+    "name": "PAYYANNUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "5",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 7,
+    "name": "KALLIASSERI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "6",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 8,
+    "name": "TALIPARAMBA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "7",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 9,
+    "name": "IRIKKUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "8",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 10,
+    "name": "AZHIKODE",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "9",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 11,
+    "name": "KANNUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "10",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 12,
+    "name": "DHARMADAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "11",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 13,
+    "name": "THALASSERY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "12",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 14,
+    "name": "KUTHUPARAMBA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "13",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 15,
+    "name": "MATTANNUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "14",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 16,
+    "name": "PERAVOOR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "15",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 17,
+    "name": "MANANTHAVADY (ST)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "16",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 18,
+    "name": "SULTHANBATHERY (ST)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "17",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 19,
+    "name": "KALPETTA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "18",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 20,
+    "name": "VADAKARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "19",
+        "party": ""
+      },
+      {
+        "alliance": "UDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 21,
+    "name": "KUTTIADI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "20",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 22,
+    "name": "NADAPURAM (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "21",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 23,
+    "name": "QUILANDY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "22",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 24,
+    "name": "PERAMBRA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "23",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 25,
+    "name": "BALUSSERI (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "24",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 26,
+    "name": "ELATHUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "25",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 27,
+    "name": "KOZHIKODE NORTH",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "26",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 28,
+    "name": "KOZHIKODE SOUTH",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "27",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 29,
+    "name": "BEYPORE",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "28",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 30,
+    "name": "KUNNAMANGALAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "29",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 31,
+    "name": "KODUVALLY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "30",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 32,
+    "name": "THIRUVAMBADY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "31",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 33,
+    "name": "KONDOTTY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "32",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 34,
+    "name": "ERANAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "33",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 35,
+    "name": "NILAMBUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "34",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 36,
+    "name": "WANDOOR (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "35",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 37,
+    "name": "MANJERI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "36",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 38,
+    "name": "PERINTHALMANNA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "37",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 39,
+    "name": "MANKADA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "38",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 40,
+    "name": "MALAPPURAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "39",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 41,
+    "name": "VENGARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "40",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 42,
+    "name": "VALLIKKUNNU",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "41",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 43,
+    "name": "TIRURANGADI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "42",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 44,
+    "name": "TANUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "43",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 45,
+    "name": "TIRUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "44",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 46,
+    "name": "KOTTAKKAL",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "45",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 47,
+    "name": "THAVANUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "46",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 48,
+    "name": "PONNANI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "47",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 49,
+    "name": "THRITHALA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "48",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 50,
+    "name": "PATTAMBI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "49",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 51,
+    "name": "SHORNUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "50",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 52,
+    "name": "OTTAPALAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "51",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 53,
+    "name": "KONGAD (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "52",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 54,
+    "name": "MANNARKAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "53",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 55,
+    "name": "MALAMPUZHA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "54",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 56,
+    "name": "PALAKKAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "55",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 57,
+    "name": "TARUR (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "56",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 58,
+    "name": "CHITTUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "57",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 59,
+    "name": "NENMARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "58",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 60,
+    "name": "ALATHUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "59",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 61,
+    "name": "CHELAKKARA (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "60",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 62,
+    "name": "KUNNAMKULAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "61",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 63,
+    "name": "GURUVAYOOR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "62",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 64,
+    "name": "MANALUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "63",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 65,
+    "name": "WADAKKANCHERY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "64",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 66,
+    "name": "WADAKKANCHERY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "65",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 67,
+    "name": "THRISSUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "66",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 68,
+    "name": "NATTIKA (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "67",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 69,
+    "name": "KAIPAMANGALAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "68",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 70,
+    "name": "IRINJALAKKUDA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "69",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 71,
+    "name": "PUTHUKKAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "70",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 72,
+    "name": "CHALAKKUDY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "71",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 73,
+    "name": "KODUNGALLUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "72",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 74,
+    "name": "PERUMBAVOOR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "73",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 75,
+    "name": "ANGAMALY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "74",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 76,
+    "name": "ALUVA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "75",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 77,
+    "name": "KALAMASSERY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "76",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 78,
+    "name": "PARAVUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "77",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 79,
+    "name": "VYPEN",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "78",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 80,
+    "name": "KOCHI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "79",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 81,
+    "name": "THRIPUNITHURA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "80",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 82,
+    "name": "ERANAKULAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "81",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 83,
+    "name": "THRIKKAKARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "82",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 84,
+    "name": "KUNNATHUNAD (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "83",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 85,
+    "name": "PIRAVOM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "84",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 86,
+    "name": "MUVATTUPUZHA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "85",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 87,
+    "name": "KOTHAMANGALAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "OTH",
+        "name": "86",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 88,
+    "name": "DEVIKULAM (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "87",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 89,
+    "name": "UDUMBANCHOLA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "88",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 90,
+    "name": "THODUPUZHA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "89",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 91,
+    "name": "IDUKKI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "90",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 92,
+    "name": "PEERUMADE",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "91",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 93,
+    "name": "PALA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "92",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 94,
+    "name": "KADUTHURUTHY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "93",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 95,
+    "name": "VAIKOM (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "94",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 96,
+    "name": "ETTUMANOOR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "95",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 97,
+    "name": "KOTTAYAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "96",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 98,
+    "name": "PUTHUPPALLY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "97",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 99,
+    "name": "CHANGANASSERY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "98",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 100,
+    "name": "KANJIRAPPALLY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "99",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 101,
+    "name": "POONJAR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "100",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 102,
+    "name": "AROOR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "101",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 103,
+    "name": "CHERTHALA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "102",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 104,
+    "name": "ALAPPUZHA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "103",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 105,
+    "name": "AMBALAPUZHA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "104",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 106,
+    "name": "KUTTANAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "105",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 107,
+    "name": "HARIPAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "106",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 108,
+    "name": "KAYAMKULAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "107",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 109,
+    "name": "MAVELIKARA (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "108",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 110,
+    "name": "CHENGANNUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "109",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 111,
+    "name": "THIRUVALLA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "110",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 112,
+    "name": "RANNI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "111",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 113,
+    "name": "ARANMULA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "112",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 114,
+    "name": "KONNI",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "113",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 115,
+    "name": "ADOOR (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "114",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 116,
+    "name": "KARUNAGAPPALLY",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "115",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 117,
+    "name": "CHAVARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "116",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 118,
+    "name": "KUNNATHUR (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "117",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 119,
+    "name": "KOTTARAKKARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "118",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 120,
+    "name": "PATHANAPURAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "119",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 121,
+    "name": "PUNALUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "120",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 122,
+    "name": "CHADAYAMANGALAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "121",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 123,
+    "name": "KUNDARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "NDA",
+        "name": "122",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 124,
+    "name": "KOLLAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "123",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 125,
+    "name": "ERAVIPURAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "124",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 126,
+    "name": "CHATHANNUR",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "125",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 127,
+    "name": "VARKALA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "126",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 128,
+    "name": "ATTINGAL (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "127",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 129,
+    "name": "CHIRAYINKEEZHU (SC)",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "128",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 130,
+    "name": "NEDUMANGAD",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "129",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 131,
+    "name": "VAMANAPURAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "130",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 132,
+    "name": "KAZHAKKOOTTAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "131",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 133,
+    "name": "VATTIYOORKAVU",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "132",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 134,
+    "name": "THIRUVANANTHAPURAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "133",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 135,
+    "name": "NEMOM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "134",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 136,
+    "name": "ARUVIKKARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "135",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 137,
+    "name": "PARASSALA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "136",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 138,
+    "name": "KATTAKKADA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "137",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 139,
+    "name": "KOVALAM",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "138",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  },
+  {
+    "id": 140,
+    "name": "NEYYATTINKARA",
+    "district": "",
+    "candidates": [
+      {
+        "alliance": "oth",
+        "name": "139",
+        "party": ""
+      },
+      {
+        "alliance": "LDF",
+        "name": "Candidate Results",
+        "party": ""
+      }
+    ],
+    "source": "html"
+  }
+]
