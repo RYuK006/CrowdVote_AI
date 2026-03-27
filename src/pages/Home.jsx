@@ -166,6 +166,7 @@ const Home = () => {
                <Link to="/signin?mode=register" className="hover:text-emerald-500 transition-colors">Documentation</Link>
                <Link to="/signin?mode=register" className="hover:text-emerald-500 transition-colors">Methodology</Link>
                <Link to="/signin?mode=register" className="hover:text-emerald-500 transition-colors">Privacy Alpha</Link>
+               <Link to="/admin/login" className="hover:text-emerald-500 transition-colors border-l border-white/10 pl-8 ml-2">System Administrator</Link>
             </div>
             <p className="text-[10px] font-black text-slate-700 uppercase tracking-widest">© 2026 Electoral Swarm Lab</p>
          </footer>

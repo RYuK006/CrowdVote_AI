@@ -13,6 +13,9 @@ To harness the "Wisdom of the Swarm" to predict electoral outcomes with high pre
 5. [[05 - API Reference|Web APIs]] — How the frontend talks to the backend.
 6. [[06 - Real-time Magic|Real-time Synchronization]] — How Socket.io keeps everyone in sync.
 
+> [!TIP]
+> **Admin Access**: You can access the administrative console by clicking the discrete **"System Administrator"** link in the footer of the Home page.
+
 ## 🛠️ Tech Stack
 - **Frontend**: React 19 + Vite + Tailwind CSS 4
 - **Backend**: Node.js + Express
