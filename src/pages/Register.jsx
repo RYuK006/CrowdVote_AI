@@ -24,6 +24,7 @@ const Register = () => {
 
   const setupRecaptcha = () => {
     if (!window.recaptchaVerifier) {
+      auth.settings.appVerificationDisabledForTesting = true;
       window.recaptchaVerifier = new RecaptchaVerifier(auth, 'recaptcha-container', {
         'size': 'invisible',
         'callback': () => {}

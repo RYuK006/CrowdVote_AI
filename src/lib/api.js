@@ -1,6 +1,6 @@
 import { auth } from './firebase';
 
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = '/api';
 
 /**
  * Helper to fetch with JWT or Firebase ID Token

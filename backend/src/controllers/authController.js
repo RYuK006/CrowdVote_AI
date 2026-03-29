@@ -18,12 +18,18 @@ exports.phoneAuth = async (req, res) => {
     const { token, fullName, action } = req.body;
     if (!token) return res.status(400).json({ success: false, message: 'Token missing' });
 
-    const admin = require('../config/firebase-admin');
     const decodedToken = await admin.auth().verifyIdToken(token);
-    const phoneNumber = decodedToken.phone_number;
+    const phoneNumber = decodedToken.phone_number || decodedToken.phoneNumber;
+
+    console.log('Phone Auth Attempt:', { 
+      uid: decodedToken.uid, 
+      phone: phoneNumber, 
+      action,
+      hasName: !!fullName 
+    });
 
     if (!phoneNumber) {
-      return res.status(400).json({ success: false, message: 'Invalid phone token' });
+      return res.status(400).json({ success: false, message: 'Invalid phone token: Phone number missing' });
     }
 
     let user = await User.findOne({ firebaseUid: decodedToken.uid });
@@ -60,8 +66,12 @@ exports.phoneAuth = async (req, res) => {
       }
     });
   } catch (err) {
-    console.error('Phone Auth Error:', err);
-    res.status(500).json({ success: false, message: 'Phone authentication failed' });
+    console.error('Phone Auth Error Details:', {
+      message: err.message,
+      code: err.code,
+      stack: err.stack
+    });
+    res.status(500).json({ success: false, message: 'Phone authentication failed: ' + err.message });
   }
 };
 
