@@ -9,7 +9,7 @@ const bcrypt = require('bcryptjs');
 exports.getLeaderboard = async (req, res) => {
   try {
     const users = await User.find({ role: 'user' })
-      .select('username rankScore influencePoints predictionsMade badges createdAt')
+      .select('fullName rankScore influencePoints predictionsMade badges createdAt')
       .sort({ rankScore: -1 })
       .limit(50);
 
@@ -156,14 +156,11 @@ exports.getMyStats = async (req, res) => {
 // @access  Private
 exports.updateProfile = async (req, res) => {
   try {
-    const { username, email, phoneNumber } = req.body;
+    const { fullName, email, phoneNumber } = req.body;
     const updateFields = {};
 
-    if (username) {
-      // Check uniqueness
-      const existing = await User.findOne({ username, _id: { $ne: req.user.id } });
-      if (existing) return res.status(400).json({ success: false, message: 'Username already taken' });
-      updateFields.username = username;
+    if (fullName) {
+      updateFields.fullName = fullName;
     }
     if (email) {
       const existing = await User.findOne({ email, _id: { $ne: req.user.id } });

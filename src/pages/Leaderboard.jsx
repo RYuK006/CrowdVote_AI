@@ -61,10 +61,10 @@ const Leaderboard = () => {
              <motion.div initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }} className="order-2 md:order-1">
                 <div className="bg-[#0A0A0A] border border-white/5 p-10 rounded-[40px] text-center space-y-6 relative group hover:border-emerald-500/30 transition-all">
                    <div className="w-24 h-24 bg-slate-800 rounded-3xl mx-auto flex items-center justify-center text-3xl font-black border-4 border-[#050505] shadow-xl">
-                      {top3[1].username[0]}
+                      {top3[1].fullName[0]}
                    </div>
                    <div className="space-y-2">
-                      <h3 className="text-2xl font-black">{top3[1].username}</h3>
+                      <h3 className="text-2xl font-black">{top3[1].fullName}</h3>
                       <p className="text-[10px] font-black uppercase tracking-[0.2em] text-slate-500">Rank #2 • Master</p>
                    </div>
                    <div className="pt-6 border-t border-white/5">
@@ -83,10 +83,10 @@ const Leaderboard = () => {
                       Absolute Leader
                    </div>
                    <div className="w-32 h-32 bg-emerald-500 rounded-[40px] mx-auto flex items-center justify-center text-5xl font-black text-black border-8 border-[#111111] shadow-2xl">
-                      {top3[0].username[0]}
+                      {top3[0].fullName[0]}
                    </div>
                    <div className="space-y-2">
-                      <h3 className="text-4xl font-black">{top3[0].username}</h3>
+                      <h3 className="text-4xl font-black">{top3[0].fullName}</h3>
                       <p className="text-[10px] font-black uppercase tracking-[0.3em] text-emerald-500">Rank #1 • Oracle</p>
                    </div>
                    <div className="pt-8 border-t border-white/10 flex justify-between items-center px-10">
@@ -105,10 +105,10 @@ const Leaderboard = () => {
              <motion.div initial={{ opacity: 0, y: 50 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4 }} className="order-3">
                 <div className="bg-[#0A0A0A] border border-white/5 p-10 rounded-[40px] text-center space-y-6 relative group hover:border-emerald-500/30 transition-all">
                    <div className="w-24 h-24 bg-amber-900/20 rounded-3xl mx-auto flex items-center justify-center text-3xl font-black text-amber-500 border-4 border-[#050505] shadow-xl">
-                      {top3[2].username[0]}
+                      {top3[2].fullName[0]}
                    </div>
                    <div className="space-y-2">
-                      <h3 className="text-2xl font-black">{top3[2].username}</h3>
+                      <h3 className="text-2xl font-black">{top3[2].fullName}</h3>
                       <p className="text-[10px] font-black uppercase tracking-[0.2em] text-slate-500">Rank #3 • Expert</p>
                    </div>
                    <div className="pt-6 border-t border-white/5">
@@ -138,10 +138,10 @@ const Leaderboard = () => {
                       <span className="text-3xl font-black text-slate-800 group-hover:text-emerald-500/20 transition-colors w-12 text-center">#{i + 4}</span>
                       <div className="flex items-center gap-4">
                          <div className="w-14 h-14 bg-[#111] rounded-2xl flex items-center justify-center font-black text-slate-500 border border-white/5 uppercase">
-                            {user.username[0]}
+                            {user.fullName[0]}
                          </div>
                             <div className="space-y-1">
-                             <h4 className="text-lg font-black">{user.username}</h4>
+                             <h4 className="text-lg font-black">{user.fullName}</h4>
                              <div className="flex items-center gap-3">
                                 <span className="text-[10px] font-black text-slate-600 uppercase tracking-widest leading-none">{user.predictionsMade || 0} predictions · {(user.badges || []).length} badges</span>
                                 <MoveUp size={12} className="text-emerald-500" />
@@ -172,7 +172,7 @@ const Leaderboard = () => {
                     </div>
                     <div>
                        <h4 className="font-black text-lg">Your Current Performance</h4>
-                       <p className="text-[10px] font-bold text-slate-500 uppercase tracking-[0.2em]">{me.username} • {me.role}</p>
+                       <p className="text-[10px] font-bold text-slate-500 uppercase tracking-[0.2em]">{me.fullName} • {me.role}</p>
                     </div>
                  </div>
                      <div className="flex items-center gap-8">

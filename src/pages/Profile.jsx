@@ -6,7 +6,7 @@ import { getMe, updateProfile, changePassword, deleteAccount } from '../lib/api'
 const Profile = () => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [form, setForm] = useState({ username: '', email: '', phoneNumber: '' });
+  const [form, setForm] = useState({ fullName: '', email: '', phoneNumber: '' });
   const [pwForm, setPwForm] = useState({ currentPassword: '', newPassword: '' });
   const [saving, setSaving] = useState(false);
   const [changingPw, setChangingPw] = useState(false);
@@ -24,11 +24,11 @@ const Profile = () => {
     try {
       const res = await getMe();
       setUser(res.data);
-      setForm({ username: res.data.username, email: res.data.email, phoneNumber: res.data.phoneNumber || '' });
+      setForm({ fullName: res.data.fullName, email: res.data.email, phoneNumber: res.data.phoneNumber || '' });
     } catch {
       const s = JSON.parse(localStorage.getItem('user') || localStorage.getItem('adminUser') || '{}');
       setUser(s);
-      setForm({ username: s.username || '', email: s.email || '', phoneNumber: s.phoneNumber || '' });
+      setForm({ fullName: s.fullName || '', email: s.email || '', phoneNumber: s.phoneNumber || '' });
     } finally { setLoading(false); }
   };
 
@@ -61,7 +61,7 @@ const Profile = () => {
   if (loading) return <div className="h-[60vh] flex items-center justify-center"><Loader2 className="animate-spin text-emerald-500" size={32} /></div>;
   if (!user) return null;
 
-  const initials = (user.username || 'U').slice(0, 2).toUpperCase();
+  const initials = (user.fullName || 'U').slice(0, 2).toUpperCase();
   const joined = new Date(user.createdAt || Date.now()).toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
 
   return (
@@ -74,7 +74,7 @@ const Profile = () => {
               <span className="px-4 py-1.5 bg-emerald-500/10 text-emerald-500 rounded-full text-[10px] font-black uppercase tracking-widest border border-emerald-500/20">{user.role === 'admin' ? 'System Architect' : 'Swarm Expert'}</span>
               <span className="px-4 py-1.5 bg-white/5 text-slate-500 rounded-full text-[10px] font-black uppercase tracking-widest">Joined {joined}</span>
             </div>
-            <h1 className="text-5xl font-black tracking-tighter">{user.username}</h1>
+            <h1 className="text-5xl font-black tracking-tighter">{user.fullName}</h1>
             <p className="text-slate-500 font-medium">{user.email}</p>
           </div>
         </div>
@@ -90,7 +90,7 @@ const Profile = () => {
         <div className="bg-[#0A0A0A] border border-white/5 p-10 rounded-[40px] space-y-8">
           <h3 className="text-2xl font-black flex items-center gap-3"><User className="text-emerald-500"/>Identity Center</h3>
           <div className="space-y-6">
-            {[['Username','text','username'],['Email','email','email'],['Phone','text','phoneNumber']].map(([l,t,k])=>(
+            {[['Full Name','text','fullName'],['Email','email','email'],['Phone','text','phoneNumber']].map(([l,t,k])=>(
               <div key={k} className="space-y-2">
                 <label className="text-[10px] font-black uppercase tracking-widest text-slate-500">{l}</label>
                 <input type={t} value={form[k]} onChange={e=>setForm({...form,[k]:e.target.value})} className="w-full bg-[#050505] border border-white/5 p-4 rounded-xl text-sm font-bold focus:ring-2 focus:ring-emerald-500/20 outline-none"/>

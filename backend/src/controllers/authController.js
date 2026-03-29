@@ -9,76 +9,51 @@ const generateToken = (id) => {
 };
 
 /**
- * @desc    Register user
- * @route   POST /api/auth/register
+ * @desc    Authenticate with Phone
+ * @route   POST /api/auth/phone
  * @access  Public
  */
-exports.registerUser = async (req, res) => {
+exports.phoneAuth = async (req, res) => {
   try {
-    const { username, email, password } = req.body;
+    const { token, fullName } = req.body;
+    if (!token) return res.status(400).json({ success: false, message: 'Token missing' });
 
-    const userExists = await User.findOne({ 
-      $or: [{ email }, { username }] 
-    });
+    const admin = require('../config/firebase-admin');
+    const decodedToken = await admin.auth().verifyIdToken(token);
+    const phoneNumber = decodedToken.phone_number;
 
-    if (userExists) {
-      return res.status(400).json({ success: false, message: 'User already exists' });
+    if (!phoneNumber) {
+      return res.status(400).json({ success: false, message: 'Invalid phone token' });
     }
 
-    const user = await User.create({
-      username,
-      email,
-      password,
-      role: 'user'
-    });
+    let user = await User.findOne({ firebaseUid: decodedToken.uid });
 
-    if (user) {
-      res.status(201).json({
-        success: true,
-        data: {
-          _id: user._id,
-          username: user.username,
-          email: user.email,
-          role: user.role,
-          token: generateToken(user._id)
-        }
+    if (!user) {
+      if (!fullName) {
+        return res.status(400).json({ success: false, requireFullName: true, message: 'New user requires Full Name' });
+      }
+
+      user = await User.create({
+        firebaseUid: decodedToken.uid,
+        phoneNumber,
+        fullName,
+        role: 'user'
       });
     }
+
+    res.json({
+      success: true,
+      data: {
+        _id: user._id,
+        fullName: user.fullName,
+        phoneNumber: user.phoneNumber,
+        role: user.role,
+        token: generateToken(user._id)
+      }
+    });
   } catch (err) {
-    res.status(500).json({ success: false, message: err.message });
-  }
-};
-
-/**
- * @desc    Login user
- * @route   POST /api/auth/login
- * @access  Public
- */
-exports.loginUser = async (req, res) => {
-  try {
-    const { email, username, password } = req.body;
-    const loginIdentity = email || username;
-
-    const user = await User.findOne({ 
-      $or: [{ email: loginIdentity }, { username: loginIdentity }] 
-    }).select('+password');
-
-    if (user && (await user.matchPassword(password))) {
-      res.json({
-        success: true,
-        data: {
-          _id: user._id,
-          username: user.username,
-          email: user.email,
-          role: user.role,
-          token: generateToken(user._id)
-        }
-      });
-    } else {
-      res.status(401).json({ success: false, message: 'Invalid email or password' });
-    }
-  } catch (err) {
-    res.status(500).json({ success: false, message: err.message });
+    console.error('Phone Auth Error:', err);
+    res.status(500).json({ success: false, message: 'Phone authentication failed' });
   }
 };
 
@@ -93,7 +68,7 @@ exports.loginAdmin = async (req, res) => {
     const loginIdentity = email || username;
 
     const user = await User.findOne({ 
-      $or: [{ email: loginIdentity }, { username: loginIdentity }] 
+      email: loginIdentity 
     }).select('+password');
 
     if (user && user.role === 'admin' && (await user.matchPassword(password))) {
@@ -101,7 +76,7 @@ exports.loginAdmin = async (req, res) => {
         success: true,
         data: {
           _id: user._id,
-          username: user.username,
+          fullName: user.fullName,
           email: user.email,
           role: user.role,
           token: generateToken(user._id)

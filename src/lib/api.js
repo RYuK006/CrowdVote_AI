@@ -35,15 +35,9 @@ export const apiRequest = async (endpoint, options = {}) => {
   return data;
 };
 
-// --- Auth ---
-export const loginUser = (credentials) => apiRequest('/auth/login', {
+export const phoneAuth = (data) => apiRequest('/auth/phone', {
   method: 'POST',
-  body: JSON.stringify(credentials)
-});
-
-export const registerUser = (userData) => apiRequest('/auth/register', {
-  method: 'POST',
-  body: JSON.stringify(userData)
+  body: JSON.stringify(data)
 });
 
 export const loginAdmin = (credentials) => apiRequest('/auth/admin/login', {

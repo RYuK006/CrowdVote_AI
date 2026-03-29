@@ -38,14 +38,7 @@ const protect = async (req, res, next) => {
       let user = await User.findOne({ firebaseUid: decodedToken.uid });
 
       if (!user) {
-        // Sync Firebase user to local DB
-        user = await User.create({
-          firebaseUid: decodedToken.uid,
-          email: decodedToken.email || '',
-          username: decodedToken.name || decodedToken.email?.split('@')[0] || 'User',
-          role: 'user',
-          password: Math.random().toString(36).slice(-8) // Random pass for social users
-        });
+        return res.status(401).json({ success: false, message: 'User not registered. Please complete registration.' });
       }
       req.user = user;
       next();

@@ -24,25 +24,17 @@ const userSchema = new mongoose.Schema({
     unique: true,
     sparse: true
   },
-  username: {
+  fullName: {
     type: String,
-    required: [true, 'Please add a username'],
-    unique: true,
+    required: [true, 'Please add a Full Name'],
     trim: true,
-    maxlength: [100, 'Username cannot be more than 100 characters']
+    maxlength: [100, 'Full Name cannot be more than 100 characters']
   },
   email: {
-    type: String,
-    required: [true, 'Please add an email'],
-    unique: true,
-    match: [
-      /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/,
-      'Please add a valid email'
-    ]
+    type: String
   },
   password: {
     type: String,
-    required: [true, 'Please add a password'],
     minlength: 6,
     select: false
   },
@@ -90,10 +82,9 @@ const userSchema = new mongoose.Schema({
   }
 });
 
-// Encrypt password using bcrypt
 userSchema.pre('save', async function(next) {
-  if (!this.isModified('password')) {
-    next();
+  if (!this.isModified('password') || !this.password) {
+    return next();
   }
   const salt = await bcrypt.genSalt(10);
   this.password = await bcrypt.hash(this.password, salt);

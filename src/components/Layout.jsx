@@ -119,10 +119,10 @@ const Layout = ({ children }) => {
               <div className="absolute top-0 right-0 w-24 h-24 bg-emerald-500/5 rounded-full blur-2xl group-hover:bg-emerald-500/10 transition-all" />
               <div className="relative z-10 flex items-center gap-4 mb-6">
                  <div className="w-12 h-12 rounded-2xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center text-emerald-500 font-black text-lg">
-                    {user?.username?.slice(0, 1).toUpperCase() || 'U'}
+                    {user?.fullName?.slice(0, 1).toUpperCase() || 'U'}
                  </div>
                  <div className="flex-1 min-w-0">
-                    <div className="text-sm font-black text-white leading-tight truncate">{user?.username || 'User'}</div>
+                    <div className="text-sm font-black text-white leading-tight truncate">{user?.fullName || 'User'}</div>
                     <div className="text-[10px] text-slate-600 font-bold truncate mt-0.5">{user?.email || ''}</div>
                     <div className="text-[10px] text-slate-500 font-black uppercase tracking-widest mt-1">
                        {user?.role === 'admin' ? 'Architect' : 'Archivist'}
@@ -153,7 +153,7 @@ const Layout = ({ children }) => {
               </div>
            </div>
            <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-emerald-500 font-black">
-              {user?.username?.slice(0, 1).toUpperCase() || 'U'}
+              {user?.fullName?.slice(0, 1).toUpperCase() || 'U'}
            </div>
         </header>
 

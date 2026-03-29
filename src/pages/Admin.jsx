@@ -92,10 +92,10 @@ const Admin = () => {
              <div className="relative z-10">
                 <div className="flex items-center gap-4 mb-6">
                    <div className="w-12 h-12 rounded-2xl bg-emerald-500 flex items-center justify-center text-black font-black text-lg">
-                      {admin?.username?.slice(0, 1).toUpperCase() || 'A'}
+                      {admin?.fullName?.slice(0, 1).toUpperCase() || 'A'}
                    </div>
                    <div>
-                      <div className="text-sm font-black text-white leading-tight truncate w-32">{admin?.username || 'Administrator'}</div>
+                      <div className="text-sm font-black text-white leading-tight truncate w-32">{admin?.fullName || 'Administrator'}</div>
                       <div className="text-[10px] text-emerald-500/60 font-black uppercase tracking-widest mt-1">Lvl 4 Admin</div>
                    </div>
                 </div>
