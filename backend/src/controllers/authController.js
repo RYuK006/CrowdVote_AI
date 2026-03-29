@@ -15,7 +15,7 @@ const generateToken = (id) => {
  */
 exports.phoneAuth = async (req, res) => {
   try {
-    const { token, fullName } = req.body;
+    const { token, fullName, action } = req.body;
     if (!token) return res.status(400).json({ success: false, message: 'Token missing' });
 
     const admin = require('../config/firebase-admin');
@@ -28,17 +28,25 @@ exports.phoneAuth = async (req, res) => {
 
     let user = await User.findOne({ firebaseUid: decodedToken.uid });
 
-    if (!user) {
-      if (!fullName) {
-        return res.status(400).json({ success: false, requireFullName: true, message: 'New user requires Full Name' });
+    if (action === 'register') {
+      if (user) {
+        return res.status(400).json({ success: false, message: 'Account already exists. Please sign in.' });
       }
-
+      if (!fullName) {
+        return res.status(400).json({ success: false, message: 'Full Name is required for registration' });
+      }
       user = await User.create({
         firebaseUid: decodedToken.uid,
         phoneNumber,
         fullName,
         role: 'user'
       });
+    } else if (action === 'login') {
+      if (!user) {
+        return res.status(401).json({ success: false, message: 'Account not found. Please register.' });
+      }
+    } else {
+      return res.status(400).json({ success: false, message: 'Invalid authentication action' });
     }
 
     res.json({

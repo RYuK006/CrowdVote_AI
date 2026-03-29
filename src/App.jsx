@@ -2,7 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
-import Auth from './pages/Auth';
+import Login from './pages/Login';
+import Register from './pages/Register';
 import Arena from './pages/Arena';
 import Leaderboard from './pages/Leaderboard';
 import Analytics from './pages/Analytics';
@@ -24,9 +25,9 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/signin" element={<Auth />} />
-            <Route path="/signup" element={<Auth />} />
-            <Route path="/reset-password" element={<Auth />} />
+            <Route path="/signin" element={<Login />} />
+            <Route path="/signup" element={<Register />} />
+            <Route path="/reset-password" element={<Navigate to="/signin" replace />} />
             <Route path="/dashboard" element={<Navigate to="/voting" replace />} />
             <Route path="/voting" element={<Voting />} />
             <Route path="/arena" element={<Arena />} />

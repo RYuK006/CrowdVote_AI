@@ -16,8 +16,8 @@ const Home = () => {
                   CrowdVote <span className="text-emerald-500 italic">OS</span>
                </div>
                <div className="flex items-center gap-6">
-                  <Link to="/signin?mode=register" className="hidden md:block text-[10px] font-black uppercase tracking-widest text-slate-500 hover:text-white transition-colors">Live Predictions</Link>
-                  <Link to="/signin?mode=register" className="px-8 py-3 bg-emerald-600 hover:bg-emerald-700 text-black font-black uppercase tracking-[0.15em] text-[10px] rounded-xl transition-all shadow-lg shadow-emerald-500/20 flex items-center gap-2 active:scale-95">
+                  <Link to="/signup" className="hidden md:block text-[10px] font-black uppercase tracking-widest text-slate-500 hover:text-white transition-colors">Live Predictions</Link>
+                  <Link to="/signup" className="px-8 py-3 bg-emerald-600 hover:bg-emerald-700 text-black font-black uppercase tracking-[0.15em] text-[10px] rounded-xl transition-all shadow-lg shadow-emerald-500/20 flex items-center gap-2 active:scale-95">
                      Join the Swarm <ArrowRight size={14} />
                   </Link>
                </div>
@@ -59,7 +59,7 @@ const Home = () => {
                      transition={{ delay: 0.3 }}
                      className="flex flex-wrap gap-6 pt-4"
                   >
-                     <Link to="/signin" className="px-10 py-5 bg-emerald-600 hover:bg-emerald-700 text-black font-black uppercase tracking-[0.2em] text-xs rounded-2xl transition-all shadow-2xl shadow-emerald-500/20 flex items-center gap-3 active:scale-95">
+                     <Link to="/signup" className="px-10 py-5 bg-emerald-600 hover:bg-emerald-700 text-black font-black uppercase tracking-[0.2em] text-xs rounded-2xl transition-all shadow-2xl shadow-emerald-500/20 flex items-center gap-3 active:scale-95">
                         Join the Swarm <ArrowRight size={18} />
                      </Link>
                      <Link to="/arena" className="px-10 py-5 bg-white/5 hover:bg-white/10 text-white border border-white/10 font-black uppercase tracking-[0.2em] text-xs rounded-2xl transition-all active:scale-95">
@@ -163,9 +163,9 @@ const Home = () => {
                CrowdVote <span className="text-emerald-500 italic">OS</span>
             </div>
             <div className="flex gap-8 text-[10px] font-black uppercase tracking-widest text-slate-500">
-               <Link to="/signin?mode=register" className="hover:text-emerald-500 transition-colors">Documentation</Link>
-               <Link to="/signin?mode=register" className="hover:text-emerald-500 transition-colors">Methodology</Link>
-               <Link to="/signin?mode=register" className="hover:text-emerald-500 transition-colors">Privacy Alpha</Link>
+               <Link to="/signup" className="hover:text-emerald-500 transition-colors">Documentation</Link>
+               <Link to="/signup" className="hover:text-emerald-500 transition-colors">Methodology</Link>
+               <Link to="/signup" className="hover:text-emerald-500 transition-colors">Privacy Alpha</Link>
                <Link to="/admin/login" className="hover:text-emerald-500 transition-colors border-l border-white/10 pl-8 ml-2">System Administrator</Link>
             </div>
             <p className="text-[10px] font-black text-slate-700 uppercase tracking-widest">© 2026 Electoral Swarm Lab</p>
